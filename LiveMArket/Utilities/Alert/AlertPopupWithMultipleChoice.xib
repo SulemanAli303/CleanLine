@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="62i-9o-D1e" customClass="AlertPopupWithMultipleChoice" customModule="Care_Pack" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view alpha="0.5" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2py-oY-x7f">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </view>
+                <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="CIe-AS-FU6">
+                    <rect key="frame" x="32" y="372.5" width="350" height="151.5"/>
+                    <subviews>
+                        <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="16" translatesAutoresizingMaskIntoConstraints="NO" id="5Wg-oG-XfO">
+                            <rect key="frame" x="32" y="32" width="286" height="95.5"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Our customer service person will contact you for taking measurements" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EHU-5J-jSL">
+                                    <rect key="frame" x="3.5" y="0.0" width="279" height="39.5"/>
+                                    <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="17"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="ckd-V2-uFd">
+                                    <rect key="frame" x="16" y="55.5" width="254" height="40"/>
+                                    <subviews>
+                                        <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zdl-Yd-0GH" customClass="ThemeButton" customModule="Care_Pack" customModuleProvider="target">
+                                            <rect key="frame" x="0.0" y="0.0" width="122" height="40"/>
+                                            <color key="backgroundColor" name="theme"/>
+                                            <constraints>
+                                                <constraint firstAttribute="height" constant="40" id="WQS-re-e5d"/>
+                                            </constraints>
+                                            <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="16"/>
+                                            <state key="normal" title="OK">
+                                                <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                            </state>
+                                            <userDefinedRuntimeAttributes>
+                                                <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                    <real key="value" value="20"/>
+                                                </userDefinedRuntimeAttribute>
+                                            </userDefinedRuntimeAttributes>
+                                            <connections>
+                                                <action selector="okayButtonAction:" destination="62i-9o-D1e" eventType="touchUpInside" id="6aU-cd-fGZ"/>
+                                            </connections>
+                                        </button>
+                                        <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0s3-sC-Goh">
+                                            <rect key="frame" x="132" y="0.0" width="122" height="40"/>
+                                            <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                            <constraints>
+                                                <constraint firstAttribute="height" constant="40" id="Gix-6c-9mJ"/>
+                                            </constraints>
+                                            <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="16"/>
+                                            <state key="normal" title="CANCEL">
+                                                <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                            </state>
+                                            <userDefinedRuntimeAttributes>
+                                                <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                    <real key="value" value="20"/>
+                                                </userDefinedRuntimeAttribute>
+                                            </userDefinedRuntimeAttributes>
+                                            <connections>
+                                                <action selector="cancelButtonAction:" destination="62i-9o-D1e" eventType="touchUpInside" id="ADE-li-Zp7"/>
+                                            </connections>
+                                        </button>
+                                    </subviews>
+                                </stackView>
+                            </subviews>
+                            <constraints>
+                                <constraint firstItem="ckd-V2-uFd" firstAttribute="leading" secondItem="5Wg-oG-XfO" secondAttribute="leading" constant="16" id="XZf-oe-EAU"/>
+                                <constraint firstAttribute="trailing" secondItem="ckd-V2-uFd" secondAttribute="trailing" constant="16" id="nlZ-Kf-emJ"/>
+                            </constraints>
+                        </stackView>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="5Wg-oG-XfO" secondAttribute="trailing" constant="32" id="BG7-5X-bc7"/>
+                        <constraint firstAttribute="bottom" secondItem="5Wg-oG-XfO" secondAttribute="bottom" constant="24" id="OJ0-hN-Th9"/>
+                        <constraint firstItem="5Wg-oG-XfO" firstAttribute="top" secondItem="CIe-AS-FU6" secondAttribute="top" constant="32" id="On8-PR-CPn"/>
+                        <constraint firstItem="5Wg-oG-XfO" firstAttribute="leading" secondItem="CIe-AS-FU6" secondAttribute="leading" constant="32" id="cms-dy-Yla"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <real key="value" value="10"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="6x4-pH-4O6"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="CIe-AS-FU6" firstAttribute="centerY" secondItem="62i-9o-D1e" secondAttribute="centerY" id="7Mi-I4-a3K"/>
+                <constraint firstAttribute="bottom" secondItem="2py-oY-x7f" secondAttribute="bottom" id="FJy-Wo-Vxt"/>
+                <constraint firstItem="CIe-AS-FU6" firstAttribute="centerX" secondItem="62i-9o-D1e" secondAttribute="centerX" id="P4i-uV-J36"/>
+                <constraint firstItem="6x4-pH-4O6" firstAttribute="trailing" secondItem="2py-oY-x7f" secondAttribute="trailing" id="TGy-0u-bJ7"/>
+                <constraint firstAttribute="trailing" secondItem="CIe-AS-FU6" secondAttribute="trailing" constant="32" id="VC1-q1-Yrr"/>
+                <constraint firstItem="2py-oY-x7f" firstAttribute="leading" secondItem="6x4-pH-4O6" secondAttribute="leading" id="ZwJ-DH-OIR"/>
+                <constraint firstItem="2py-oY-x7f" firstAttribute="top" secondItem="62i-9o-D1e" secondAttribute="top" id="c8Y-FP-Y8R"/>
+                <constraint firstItem="CIe-AS-FU6" firstAttribute="leading" secondItem="62i-9o-D1e" secondAttribute="leading" constant="32" id="zhM-wn-1Ln"/>
+            </constraints>
+            <connections>
+                <outlet property="cancelButton" destination="0s3-sC-Goh" id="Q2C-qW-Dmt"/>
+                <outlet property="dialogueBoxView" destination="CIe-AS-FU6" id="0sd-Ec-q55"/>
+                <outlet property="messageLabel" destination="EHU-5J-jSL" id="4IQ-5D-6gV"/>
+                <outlet property="okayButton" destination="Zdl-Yd-0GH" id="IXZ-Jn-kLz"/>
+                <outlet property="overlayView" destination="2py-oY-x7f" id="raK-jx-NfL"/>
+            </connections>
+            <point key="canvasLocation" x="133" y="136"/>
+        </view>
+    </objects>
+    <resources>
+        <namedColor name="theme">
+            <color red="0.99215686274509807" green="0.89411764705882357" blue="0.25098039215686274" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>
