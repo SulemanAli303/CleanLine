@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Scheduled Date"; ObjectID = "1HV-SK-VCj"; */
+"1HV-SK-VCj.text" = "Scheduled Date";
+
+/* Class = "UILabel"; text = "Order cancellation and refund will not be applicable once order has been confirmed"; ObjectID = "4e5-bJ-ORP"; */
+"4e5-bJ-ORP.text" = "Order cancellation and refund will not be applicable once order has been confirmed";
+
+/* Class = "UILabel"; text = "18 April 2022"; ObjectID = "5C5-21-56X"; */
+"5C5-21-56X.text" = "18 April 2022";
+
+/* Class = "UILabel"; text = "Item Total                         :"; ObjectID = "DlS-kZ-Ptd"; */
+"DlS-kZ-Ptd.text" = "Item Total                         :";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "EJu-gE-lOl"; */
+"EJu-gE-lOl.text" = "0.00";
+
+/* Class = "UILabel"; text = "Bill Details"; ObjectID = "PfO-0v-UMO"; */
+"PfO-0v-UMO.text" = "Bill Details";
+
+/* Class = "UILabel"; text = "Service Charges             :"; ObjectID = "QqH-tx-2MA"; */
+"QqH-tx-2MA.text" = "Service Charges             :";
+
+/* Class = "UILabel"; text = "Payment Type"; ObjectID = "R0g-tj-6zU"; */
+"R0g-tj-6zU.text" = "Payment Type";
+
+/* Class = "UILabel"; text = "Grand Total              :"; ObjectID = "WC9-o9-WES"; */
+"WC9-o9-WES.text" = "Grand Total              :";
+
+/* Class = "UILabel"; text = "PAY"; ObjectID = "Z74-eZ-tiz"; */
+"Z74-eZ-tiz.text" = "PAY";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "fj9-QJ-JYH"; */
+"fj9-QJ-JYH.text" = "0.00";
+
+/* Class = "UILabel"; text = "AED 0.00"; ObjectID = "gnK-4V-vei"; */
+"gnK-4V-vei.text" = "AED 0.00";
+
+/* Class = "UIButton"; normalTitle = "Place your Requests"; ObjectID = "her-57-o1Y"; */
+"her-57-o1Y.normalTitle" = "Place your Requests";
+
+/* Class = "UILabel"; text = "09:00 - 12:00"; ObjectID = "mR3-pR-Cub"; */
+"mR3-pR-Cub.text" = "09:00 - 12:00";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "rzQ-fB-8gE"; */
+"rzQ-fB-8gE.text" = "0.00";
+
+/* Class = "UILabel"; text = "  Payment Methods"; ObjectID = "wxT-iN-Mku"; */
+"wxT-iN-Mku.text" = "  Payment Methods";
+
+/* Class = "UILabel"; text = "Tax"; ObjectID = "yGy-bo-VNN"; */
+"yGy-bo-VNN.text" = "Tax";
