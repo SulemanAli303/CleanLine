@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22155" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22131"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="RatingCells" id="gTV-IL-0wX" customClass="RatingCells" customModule="Live_Market" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="166" height="99"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="166" height="99"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Ngi-fr-9Q5">
+                        <rect key="frame" x="0.0" y="0.0" width="156" height="99"/>
+                        <subviews>
+                            <view userInteractionEnabled="NO" contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="fV5-EI-4dc" customClass="CosmosView" customModule="Cosmos">
+                                <rect key="frame" x="25.5" y="41" width="105" height="17"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="rating">
+                                        <real key="value" value="4"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="starSize">
+                                        <real key="value" value="17"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="totalStars">
+                                        <integer key="value" value="5"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="image" keyPath="filledImage" value="star-1"/>
+                                    <userDefinedRuntimeAttribute type="image" keyPath="emptyImage" value="star-11"/>
+                                </userDefinedRuntimeAttributes>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="fV5-EI-4dc" firstAttribute="centerY" secondItem="Ngi-fr-9Q5" secondAttribute="centerY" id="01U-B3-nOd"/>
+                            <constraint firstItem="fV5-EI-4dc" firstAttribute="centerX" secondItem="Ngi-fr-9Q5" secondAttribute="centerX" id="7cR-Ue-iUT"/>
+                            <constraint firstItem="fV5-EI-4dc" firstAttribute="centerY" secondItem="Ngi-fr-9Q5" secondAttribute="centerY" id="yXR-eH-UP5"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="ibcornerRadius">
+                                <real key="value" value="5"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                <real key="value" value="1"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="Ngi-fr-9Q5" secondAttribute="bottom" id="6ZV-Fi-uOq"/>
+                <constraint firstAttribute="top" secondItem="Ngi-fr-9Q5" secondAttribute="top" id="7ft-Bf-52v"/>
+                <constraint firstItem="Ngi-fr-9Q5" firstAttribute="leading" secondItem="ZTg-uK-7eu" secondAttribute="leading" id="Jet-uW-xTD"/>
+                <constraint firstItem="Ngi-fr-9Q5" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="NaM-Fa-1BQ"/>
+                <constraint firstItem="ZTg-uK-7eu" firstAttribute="trailing" secondItem="Ngi-fr-9Q5" secondAttribute="trailing" constant="10" id="W4e-n8-vDC"/>
+            </constraints>
+            <size key="customSize" width="166" height="102"/>
+            <connections>
+                <outlet property="outView" destination="Ngi-fr-9Q5" id="UvL-ZZ-EME"/>
+                <outlet property="rating" destination="fV5-EI-4dc" id="2V8-m5-dyA"/>
+            </connections>
+            <point key="canvasLocation" x="221.73913043478262" y="76.004464285714278"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="star-1" width="15.5" height="15"/>
+        <image name="star-11" width="33" height="31.5"/>
+    </resources>
+</document>
