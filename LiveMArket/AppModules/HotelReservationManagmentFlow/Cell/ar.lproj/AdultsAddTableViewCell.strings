@@ -1,0 +1,66 @@
+
+/* Class = "UILabel"; text = "Adults"; ObjectID = "0HC-JZ-2Ob"; */
+"0HC-JZ-2Ob.text" = "Adults";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "1d6-Sj-agF"; */
+"1d6-Sj-agF.text" = "1";
+
+/* Class = "UILabel"; text = "  Child"; ObjectID = "73A-De-vAH"; */
+"73A-De-vAH.text" = "  Child";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "AFm-iw-Ro5"; */
+"AFm-iw-Ro5.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "CeQ-Mx-Dh5"; */
+"CeQ-Mx-Dh5.text" = "1";
+
+/* Class = "UILabel"; text = "(age below 2)"; ObjectID = "Kem-Hp-jfm"; */
+"Kem-Hp-jfm.text" = "(age below 2)";
+
+/* Class = "UILabel"; text = "(age above 2)"; ObjectID = "Luw-VK-xNa"; */
+"Luw-VK-xNa.text" = "(age above 2)";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "Mpp-QN-H05"; */
+"Mpp-QN-H05.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Mpp-QN-H05"; */
+"Mpp-QN-H05.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "   Room"; ObjectID = "R1y-wg-GE3"; */
+"R1y-wg-GE3.text" = "   Room";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "R9m-rU-sRb"; */
+"R9m-rU-sRb.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "R9m-rU-sRb"; */
+"R9m-rU-sRb.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "V3S-Ts-YZN"; */
+"V3S-Ts-YZN.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "XKz-jc-AZO"; */
+"XKz-jc-AZO.text" = "0";
+
+/* Class = "UILabel"; text = "  Child"; ObjectID = "Xa4-5A-BIQ"; */
+"Xa4-5A-BIQ.text" = "  Child";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "Z1G-pT-LSL"; */
+"Z1G-pT-LSL.normalTitle" = " ";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "aox-ks-15D"; */
+"aox-ks-15D.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "aox-ks-15D"; */
+"aox-ks-15D.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "ktx-eL-afr"; */
+"ktx-eL-afr.normalTitle" = " ";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "qDx-Rd-CbG"; */
+"qDx-Rd-CbG.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qDx-Rd-CbG"; */
+"qDx-Rd-CbG.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "r35-JO-52F"; */
+"r35-JO-52F.normalTitle" = " ";
