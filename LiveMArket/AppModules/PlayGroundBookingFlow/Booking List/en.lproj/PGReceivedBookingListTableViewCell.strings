@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "Is the work finished?"; ObjectID = "0QC-bQ-DHX"; */
+"0QC-bQ-DHX.text" = "Is the work finished?";
+
+/* Class = "UILabel"; text = "Accept This Booking ?"; ObjectID = "9ih-TU-J4m"; */
+"9ih-TU-J4m.text" = "Accept This Booking ?";
+
+/* Class = "UIButton"; normalTitle = "Ready for collection"; ObjectID = "DqB-Cs-CKL"; */
+"DqB-Cs-CKL.normalTitle" = "Ready for collection";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "FoE-o9-koG"; */
+"FoE-o9-koG.normalTitle" = "Reject";
+
+/* Class = "UILabel"; text = "Ready to Prepare?"; ObjectID = "GXg-8u-fHJ"; */
+"GXg-8u-fHJ.text" = "Ready to Prepare?";
+
+/* Class = "UIButton"; normalTitle = "Finished"; ObjectID = "Hfd-Qx-0Y1"; */
+"Hfd-Qx-0Y1.normalTitle" = "Finished";
+
+/* Class = "UILabel"; text = "Ready to Pickup?"; ObjectID = "OPT-uk-zSV"; */
+"OPT-uk-zSV.text" = "Ready to Pickup?";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "RHB-jp-Le9"; */
+"RHB-jp-Le9.normalTitle" = "Reject";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "UZI-mK-Lm0"; */
+"UZI-mK-Lm0.normalTitle" = "Reject";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "VsR-Zp-Ysd"; */
+"VsR-Zp-Ysd.normalTitle" = "Accept";
+
+/* Class = "UIButton"; normalTitle = "Send Location"; ObjectID = "e5t-4Y-n4U"; */
+"e5t-4Y-n4U.normalTitle" = "Send Location";
+
+/* Class = "UILabel"; text = "Provide us Location"; ObjectID = "lma-B8-AKi"; */
+"lma-B8-AKi.text" = "Provide us Location";
+
+/* Class = "UILabel"; text = "SAR 0"; ObjectID = "omo-r2-2cy"; */
+"omo-r2-2cy.text" = "SAR 0";
+
+/* Class = "UIButton"; normalTitle = "Start to Prepare"; ObjectID = "zU6-lY-Hbj"; */
+"zU6-lY-Hbj.normalTitle" = "Start to Prepare";
