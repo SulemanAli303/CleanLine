@@ -1,0 +1,234 @@
+
+/* Class = "UILabel"; text = "05"; ObjectID = "298-5V-CsN"; */
+"298-5V-CsN.text" = "05";
+
+/* Class = "UILabel"; text = "Delivery Charge"; ObjectID = "2Oh-1m-wdz"; */
+"2Oh-1m-wdz.text" = "Delivery Charge";
+
+/* Class = "UILabel"; text = "Tax Charge"; ObjectID = "2y0-Tb-A4V"; */
+"2y0-Tb-A4V.text" = "Tax Charge";
+
+/* Class = "UILabel"; text = "Delivered"; ObjectID = "4GU-99-hWw"; */
+"4GU-99-hWw.text" = "Delivered";
+
+/* Class = "UILabel"; text = "Request a delegate"; ObjectID = "54g-Mv-22g"; */
+"54g-Mv-22g.text" = "Request a delegate";
+
+/* Class = "UILabel"; text = "Bill Details"; ObjectID = "597-YH-w89"; */
+"597-YH-w89.text" = "Bill Details";
+
+/* Class = "UILabel"; text = "Grand Total"; ObjectID = "5KF-Ba-Lmn"; */
+"5KF-Ba-Lmn.text" = "Grand Total";
+
+/* Class = "UILabel"; text = "Delivery Location"; ObjectID = "5uP-Fl-Z7F"; */
+"5uP-Fl-Z7F.text" = "Delivery Location";
+
+/* Class = "UILabel"; text = "ASSIGNED REPRESENTATIVE"; ObjectID = "7VP-yt-ZL2"; */
+"7VP-yt-ZL2.text" = "ASSIGNED REPRESENTATIVE";
+
+/* Class = "UIButton"; normalTitle = "Pending"; ObjectID = "9Qw-SL-Gs2"; */
+"9Qw-SL-Gs2.normalTitle" = "Pending";
+
+/* Class = "UILabel"; text = "Casablanca St - Airport Road - Dubai - United Arab Emirates"; ObjectID = "AWz-T4-rOw"; */
+"AWz-T4-rOw.text" = "Casablanca St - Airport Road - Dubai - United Arab Emirates";
+
+/* Class = "UILabel"; text = "Payment Type"; ObjectID = "AX7-ok-bgI"; */
+"AX7-ok-bgI.text" = "Payment Type";
+
+/* Class = "UILabel"; text = "#LM-501248596038"; ObjectID = "B25-4C-ows"; */
+"B25-4C-ows.text" = "#LM-501248596038";
+
+/* Class = "UILabel"; text = "Daniel Alexendra"; ObjectID = "BV2-TT-mPe"; */
+"BV2-TT-mPe.text" = "Daniel Alexendra";
+
+/* Class = "UILabel"; text = "-Give star rating"; ObjectID = "Bb2-sO-NOq"; */
+"Bb2-sO-NOq.text" = "-Give star rating";
+
+/* Class = "UILabel"; text = "DELIVERED DETAILS"; ObjectID = "CDT-GS-i1Y"; */
+"CDT-GS-i1Y.text" = "DELIVERED DETAILS";
+
+/* Class = "UILabel"; text = "Delivered"; ObjectID = "CGy-oB-a0c"; */
+"CGy-oB-a0c.text" = "Delivered";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Ccz-gK-RyJ"; */
+"Ccz-gK-RyJ.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Delegate"; ObjectID = "E9D-Xu-ASE"; */
+"E9D-Xu-ASE.normalTitle" = "Delegate";
+
+/* Class = "UILabel"; text = "DELIVERED DETAILS"; ObjectID = "FaT-GB-HPP"; */
+"FaT-GB-HPP.text" = "DELIVERED DETAILS";
+
+/* Class = "UILabel"; text = "Medium Truck"; ObjectID = "Grx-9U-n2s"; */
+"Grx-9U-n2s.text" = "Medium Truck";
+
+/* Class = "UILabel"; text = "Pickup Location"; ObjectID = "Jk0-qF-PI1"; */
+"Jk0-qF-PI1.text" = "Pickup Location";
+
+/* Class = "UIButton"; normalTitle = "Accepted"; ObjectID = "K55-Hm-gE6"; */
+"K55-Hm-gE6.normalTitle" = "Accepted";
+
+/* Class = "UILabel"; text = "CUSTOMER DETAILS"; ObjectID = "Kp6-sp-AsB"; */
+"Kp6-sp-AsB.text" = "CUSTOMER DETAILS";
+
+/* Class = "UILabel"; text = "Your Location"; ObjectID = "MaX-Ot-duk"; */
+"MaX-Ot-duk.text" = "Your Location";
+
+/* Class = "UILabel"; text = "Route Location"; ObjectID = "MiE-CM-7Gv"; */
+"MiE-CM-7Gv.text" = "Route Location";
+
+/* Class = "UILabel"; text = "Product List"; ObjectID = "N7N-Pc-AxC"; */
+"N7N-Pc-AxC.text" = "Product List";
+
+/* Class = "UILabel"; text = "Map View"; ObjectID = "N8O-Um-fCD"; */
+"N8O-Um-fCD.text" = "Map View";
+
+/* Class = "UILabel"; text = "Casablanca St - Airport Road - Dubai - United Arab Emirates"; ObjectID = "NmB-6J-DqU"; */
+"NmB-6J-DqU.text" = "Casablanca St - Airport Road - Dubai - United Arab Emirates";
+
+/* Class = "UIButton"; normalTitle = "All"; ObjectID = "PUn-UK-B9Y"; */
+"PUn-UK-B9Y.normalTitle" = "All";
+
+/* Class = "UILabel"; text = "05"; ObjectID = "PhC-Wa-RVy"; */
+"PhC-Wa-RVy.text" = "05";
+
+/* Class = "UIButton"; normalTitle = "Delivery"; ObjectID = "RYa-zH-gXO"; */
+"RYa-zH-gXO.normalTitle" = "Delivery";
+
+/* Class = "UILabel"; text = "Stufeed Zucchini & Vinegar"; ObjectID = "TAc-41-Gjk"; */
+"TAc-41-Gjk.text" = "Stufeed Zucchini & Vinegar";
+
+/* Class = "UILabel"; text = "05"; ObjectID = "VD5-eQ-FoR"; */
+"VD5-eQ-FoR.text" = "05";
+
+/* Class = "UILabel"; text = "04 Oct 2022 05:00PM"; ObjectID = "WaN-aS-vVv"; */
+"WaN-aS-vVv.text" = "04 Oct 2022 05:00PM";
+
+/* Class = "UILabel"; text = "Delivered"; ObjectID = "WhQ-zp-pw7"; */
+"WhQ-zp-pw7.text" = "Delivered";
+
+/* Class = "UILabel"; text = "0 Min"; ObjectID = "Wpf-Fn-gnI"; */
+"Wpf-Fn-gnI.text" = "0 Min";
+
+/* Class = "UILabel"; text = "Accept This Order ?"; ObjectID = "Wty-c5-nud"; */
+"Wty-c5-nud.text" = "Accept This Order ?";
+
+/* Class = "UILabel"; text = "08 Oct 2022 05:00PM"; ObjectID = "Xzo-8i-IFc"; */
+"Xzo-8i-IFc.text" = "08 Oct 2022 05:00PM";
+
+/* Class = "UILabel"; text = "0 Km"; ObjectID = "YnA-2o-gBe"; */
+"YnA-2o-gBe.text" = "0 Km";
+
+/* Class = "UIButton"; normalTitle = "Pay Now"; ObjectID = "ZsP-eA-wrd"; */
+"ZsP-eA-wrd.normalTitle" = "Pay Now";
+
+/* Class = "UILabel"; text = "SAR 5.00"; ObjectID = "aHm-EW-6um"; */
+"aHm-EW-6um.text" = "SAR 5.00";
+
+/* Class = "UIButton"; normalTitle = "Call"; ObjectID = "aMW-UI-vXs"; */
+"aMW-UI-vXs.normalTitle" = "Call";
+
+/* Class = "UIButton"; normalTitle = "Collected"; ObjectID = "cN8-8b-9sI"; */
+"cN8-8b-9sI.normalTitle" = "Collected";
+
+/* Class = "UILabel"; text = "Airport Road - Casablanca St - Dubai - United Arab Emirates"; ObjectID = "cNq-x8-bzb"; */
+"cNq-x8-bzb.text" = "Airport Road - Casablanca St - Dubai - United Arab Emirates";
+
+/* Class = "UILabel"; text = "Route Location"; ObjectID = "cZP-9a-3Wj"; */
+"cZP-9a-3Wj.text" = "Route Location";
+
+/* Class = "UIButton"; normalTitle = "Delivered"; ObjectID = "ckx-95-D9d"; */
+"ckx-95-D9d.normalTitle" = "Delivered";
+
+/* Class = "UILabel"; text = "VERIFICATION CODE FOR REPRESENTATIVE"; ObjectID = "dCc-GO-ZVc"; */
+"dCc-GO-ZVc.text" = "VERIFICATION CODE FOR REPRESENTATIVE";
+
+/* Class = "UIButton"; normalTitle = "Call"; ObjectID = "dqv-Bb-34s"; */
+"dqv-Bb-34s.normalTitle" = "Call";
+
+/* Class = "UILabel"; text = "DELIVERED DETAILS"; ObjectID = "dtB-eO-TAT"; */
+"dtB-eO-TAT.text" = "DELIVERED DETAILS";
+
+/* Class = "UILabel"; text = "PAY"; ObjectID = "eJt-BN-VUE"; */
+"eJt-BN-VUE.text" = "PAY";
+
+/* Class = "UIButton"; normalTitle = "Mute All"; ObjectID = "eRt-Wy-Pwm"; */
+"eRt-Wy-Pwm.normalTitle" = "Mute All";
+
+/* Class = "UILabel"; text = "08 Oct 2022 05:00PM"; ObjectID = "fQs-Xw-EUL"; */
+"fQs-Xw-EUL.text" = "08 Oct 2022 05:00PM";
+
+/* Class = "UILabel"; text = "05"; ObjectID = "fqf-et-EQK"; */
+"fqf-et-EQK.text" = "05";
+
+/* Class = "UILabel"; text = "05"; ObjectID = "gEv-ru-PgW"; */
+"gEv-ru-PgW.text" = "05";
+
+/* Class = "UILabel"; text = "ENTER THE VERIFICATION NUMBER FROM SELLER"; ObjectID = "gR6-vt-oLQ"; */
+"gR6-vt-oLQ.text" = "ENTER THE VERIFICATION NUMBER FROM SELLER";
+
+/* Class = "UILabel"; text = "Item Total x3"; ObjectID = "h1z-nM-lG8"; */
+"h1z-nM-lG8.text" = "Item Total x3";
+
+/* Class = "UILabel"; text = "-Give star rating"; ObjectID = "hEX-Xr-d9a"; */
+"hEX-Xr-d9a.text" = "-Give star rating";
+
+/* Class = "UILabel"; text = "Payment Methods"; ObjectID = "hiR-o8-2jW"; */
+"hiR-o8-2jW.text" = "Payment Methods";
+
+/* Class = "UILabel"; text = "-Give star rating"; ObjectID = "j7p-WD-422"; */
+"j7p-WD-422.text" = "-Give star rating";
+
+/* Class = "UIButton"; normalTitle = "Clear Order"; ObjectID = "jJg-MD-4rs"; */
+"jJg-MD-4rs.normalTitle" = "Clear Order";
+
+/* Class = "UILabel"; text = "Delivery Option"; ObjectID = "jch-MJ-wTU"; */
+"jch-MJ-wTU.text" = "Delivery Option";
+
+/* Class = "UIButton"; normalTitle = "Clear Order"; ObjectID = "ke3-yn-j9C"; */
+"ke3-yn-j9C.normalTitle" = "Clear Order";
+
+/* Class = "UILabel"; text = "+966 5685 58356"; ObjectID = "kf8-Y1-3FR"; */
+"kf8-Y1-3FR.text" = "+966 5685 58356";
+
+/* Class = "UILabel"; text = "VERIFICATION CODE FOR REPRESENTATIVE"; ObjectID = "lKh-Eu-RsG"; */
+"lKh-Eu-RsG.text" = "VERIFICATION CODE FOR REPRESENTATIVE";
+
+/* Class = "UIButton"; normalTitle = "Delivered"; ObjectID = "pgW-qf-Xfv"; */
+"pgW-qf-Xfv.normalTitle" = "Delivered";
+
+/* Class = "UILabel"; text = "SAR 5.00"; ObjectID = "rXZ-Ig-gbZ"; */
+"rXZ-Ig-gbZ.text" = "SAR 5.00";
+
+/* Class = "UILabel"; text = "ASSIGNED REPRESENTATIVE"; ObjectID = "raL-2a-7VY"; */
+"raL-2a-7VY.text" = "ASSIGNED REPRESENTATIVE";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "rnI-nB-YqG"; */
+"rnI-nB-YqG.normalTitle" = "Accept";
+
+/* Class = "UILabel"; text = "SAR 5.00"; ObjectID = "tCg-mE-oOD"; */
+"tCg-mE-oOD.text" = "SAR 5.00";
+
+/* Class = "UILabel"; text = "+966 5685 58356"; ObjectID = "u0e-ue-qb1"; */
+"u0e-ue-qb1.text" = "+966 5685 58356";
+
+/* Class = "UILabel"; text = "Waiting for Confirmation"; ObjectID = "u15-BZ-l0a"; */
+"u15-BZ-l0a.text" = "Waiting for Confirmation";
+
+/* Class = "UILabel"; text = "08 Oct 2022 05:00PM"; ObjectID = "uQN-av-AqW"; */
+"uQN-av-AqW.text" = "08 Oct 2022 05:00PM";
+
+/* Class = "UILabel"; text = "SAR 300.00"; ObjectID = "ulP-b3-idw"; */
+"ulP-b3-idw.text" = "SAR 300.00";
+
+/* Class = "UILabel"; text = "Daniel Alexendra"; ObjectID = "ume-PR-4wJ"; */
+"ume-PR-4wJ.text" = "Daniel Alexendra";
+
+/* Class = "UILabel"; text = "05"; ObjectID = "x0Z-Rf-adr"; */
+"x0Z-Rf-adr.text" = "05";
+
+/* Class = "UIButton"; normalTitle = "   Chat with Customer"; ObjectID = "y0d-Rk-E3r"; */
+"y0d-Rk-E3r.normalTitle" = "   Chat with Customer";
+
+/* Class = "UILabel"; text = "ENTER THE VERIFICATION NUMBER FROM CUSTOMER"; ObjectID = "yyn-Hy-q0s"; */
+"yyn-Hy-q0s.text" = "ENTER THE VERIFICATION NUMBER FROM CUSTOMER";
