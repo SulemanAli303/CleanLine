@@ -1,0 +1,892 @@
+/*
+  Localizable.strings
+  LiveMArket
+
+  Created by Maaz Siddiqui on 7/11/24.
+  
+*/
+
+//English
+"Live Market" = "Live Market";
+"Please write your reviews." = "Please write your reviews.";
+"Should not be empty." = "Should not be empty.";
+"Invalid email address" = "Invalid email address";
+"Mobile number must be between 5-12 numbers." = "Mobile number must be between 5-12 numbers.";
+"Invalid mobile number" = "Invalid mobile number";
+"Are you sure you want to delete?" = "Are you sure you want to delete?";
+"Are you sure you want to delete all notifications?" = "Are you sure you want to delete all notifications?";
+"Are you sure you want to clear cart?" = "Are you sure you want to clear cart?";
+"Are you sure you want to delete notification?" = "Are you sure you want to delete notification?";
+"Are you sure you want to delete post?" = "Are you sure you want to delete post?";
+"Do you want to cancel the service?" = "Do you want to cancel the service?";
+//
+"Please Accept Terms &amp; Conditions" = "Please Accept Terms &amp; Conditions";
+"At least one special characters is needed." = "At least one special characters is needed.";
+"Please check your internet connection" = "Please check your internet connection";
+"Confirm password and actual password do not match." = "Confirm password and actual password do not match.";
+"Password must be between 8-15 characters" = "Password must be between 8-15 characters";
+"Password should be contains upper case,lower case,special charaters and numeric values" = "Password should be contains upper case,lower case,special charaters and numeric values";
+"Description must be between 10-1000 characters" = "Description must be between 10-1000 characters";
+"Please select Atleast One Image" = "Please select Atleast One Image";
+"Password must contain minimum 8 characters at least 1 Alphabet, 1 Number and 1 Special Character" = "Password must contain minimum 8 characters at least 1 Alphabet, 1 Number and 1 Special Character";
+"Alert" = "Alert";
+"Welcome" = "Welcome";
+"You have successfully registered" = "You have successfully registered";
+"default" = "default";
+"You have successfully login" = "You have successfully login";
+"Are you sure want to logout" = "Are you sure want to logout";
+"Are you sure want to logout?" = "Are you sure want to logout?";
+"Your account will not receive any orders, and you cannot go live and post videos." = "Your account will not receive any orders, and you cannot go live and post videos.";
+"Hurray! you will start receiving orders and you can post and go live now." = "Hurray! you will start receiving orders and you can post and go live now.";
+"Ok" = "Ok";
+"Delete Post" = "Delete Post";
+"Delete" = "Delete";
+"Cancel" = "Cancel";
+"Pending" = "Pending";
+"pending" = "pending";
+"Share Video" = "Share Video";
+"Discard Video" = "Discard Video";
+"Live Video Ended" = "Live Video Ended";
+"Sold Out" = "Sold Out";
+"Login and Continue" = "Login and Continue";
+"Hello, how are you?" = "Hello, how are you?";
+"EMAIL ADDRESS" = "EMAIL ADDRESS";
+"OLD PASSWORD" = "OLD PASSWORD";
+"NEW PASSWORD" = "NEW PASSWORD";
+"PASSWORD" = "PASSWORD";
+"CONFIRM PASSWORD" = "CONFIRM PASSWORD";
+"Forgot Password" = "Forgot Password";
+"Forgot Password?" = "Forgot Password?";
+"Login" = "Login";
+"Comment" = "Comment";
+"Type yout comment here..." = "Type yout comment here...";
+"Add post" = "Add post";
+"Apply Filter" = "Apply Filter";
+"Don\'t have an account?" = "Don\'t have an account?";
+"Login" = "Login";
+"Sign up" = "Sign up";
+"Please enter full name" = "Please enter full name";
+"Please choose country code" = "Please choose country code";
+"Please enter mobile number" = "Please enter mobile number";
+"Please enter email address" = "Please enter email address";
+"Please enter valid email address" = "Please enter valid email address";
+"Please enter password" = "Please enter password";
+"Please enter confirm password" = "Please enter confirm password";
+"Password and confirm password does not match" = "Password and confirm password does not match";
+"Please accept terms and conditions" = "Please accept terms and conditions";
+"Please enter account number" = "Please enter account number";
+"Please enter bank name" = "Please enter bank name";
+"Please enter iban code" = "Please enter iban code";
+"Please select location" = "Please select location";
+"Country" = "Country";
+"City" = "City";
+"Select Location" = "Select Location";
+"Unable to sign in please try again" = "Unable to sign in please try again";
+"I accept the Terms & conditions" = "I ACCEPT THE TERMS & CONDITIONS";
+"Login With" = "Login With";
+"Continue with Google" = "Continue with Google";
+"Continue with Facebook" = "Continue with Facebook";
+"Continue with Apple" = "Continue with Apple";
+"Create an Account" = "CREATE AN ACCOUNT";
+"Commercial Registration details" = "Commercial Registration details";
+"Fill your basic info" = "FILL YOUR BASIC INFO";
+"Filter" = "Filter";
+"Clear All" = "Clear All";
+"FULL NAME" = "FULL NAME";
+"MOBILE NUMBER" = "MOBILE NUMBER";
+"Modify filter" = "Modify filter";
+"Next" = "Next";
+"Select Account Type" = "SELECT ACCOUNT TYPE";
+"Select Vehicle Type" = "Select Vehicle Type";
+"Select Car Picture From Front" = "Select Car Picture From Front";
+"Select Car Picture From Back" = "Select Car Picture From Back";
+"Select Vehicle Registration" = "Select Vehicle Registration";
+"Select Driving License" = "Select Driving License";
+"Select Business Type" = "SELECT BUSINESS TYPE";
+"Receiving Options" = "RECEIVING OPTIONS";
+"Delivery Options" = "Delivery Options";
+"Delegate Services" = "Delegate Services";
+"Delivery Services" = "Delivery Services";
+"Delegate Bookings" = "Delegate Bookings";
+"Back" = "Back";
+"ACCOUNT NO" = "ACCOUNT NO";
+"BANK NAME" = "BANK NAME";
+"IBAN CODE" = "IBAN CODE";
+"Skip This" = "SKIP THIS";
+"Continue" = "Continue";
+"Bank account Details" = "BANK ACCOUNT DETAILS";
+"Proceed" = "Proceed";
+"SEARCH LOCATION" = "SEARCH LOCATION";
+"Home" = "Home";
+"Discover" = "Discover";
+"MyProfile" = "MyProfile";
+"Messages" = "Messages";
+"Message" = "Message";
+"YOUR ACCOUNT HAS BEEN SUCCESSFULLY REGISTERED" = "YOUR ACCOUNT HAS BEEN SUCCESSFULLY REGISTERED";
+"YOUR ACCOUNT HAS BEEN REGISTERED, WAIT FOR ACTIVATION AND AUTHENTICATION." = "YOUR ACCOUNT HAS BEEN REGISTERED, WAIT FOR ACTIVATION AND AUTHENTICATION.";
+"Your location is outside the" = "Your location is outside the";
+"city. Please choose location with this city." = "city. Please choose location with this city.";
+
+"To reset your password, enter your email id to receive OTP" = "To reset your password, enter your email id to receive OTP";
+"Submit" = "Submit";
+"To verify your email id, please enter the OTP that sent to your email" = "To verify your email id, please enter the OTP that sent to your email";
+"OTP" = "OTP";
+"Resend" = "Resend";
+"Reset Password" = "Reset Password";
+"Re Enter New Password" = "Re Enter New Password";
+"YOUR ACCOUNT DETAILS HAS BEEN UPDATED SUCCESSFULLY" = "YOUR ACCOUNT DETAILS HAS BEEN UPDATED SUCCESSFULLY ";
+"REPORT THIS POST" = "REPORT THIS POST";
+"You can report this video to live market, if you think that is against our community guidlines.We won't notify the account that you submitted this report." = "You can report this video to live market, if you think that is against our community guidlines.We won't notify the account that you submitted this report.";
+"Enter Your comments below" = "Enter Your comments below";
+"TYPE YOUR COMMENT HERE..." = "TYPE YOUR COMMENT HERE...";
+"Special requests" = "Special requests";
+"Booking Verification" = "Booking Verification";
+"Resturant Location" = "Resturant Location";
+"Bill Details" = "Bill Details";
+"Item Total" = "Item Total";
+"Tax Charge" = "Tax Charge";
+"Grand Total" = "Grand Total";
+"Payment Methods" = "Payment Methods";
+"Place your Request" = "Place your Request";
+"Select your slot" = "Select your slot";
+"Not Available" = "Not Available";
+"Available" = "Available";
+"Persons" = "Persons";
+"Where do you prefer?" = "Where do you prefer?";
+"Please select your date." = "Please select your date.";
+"Please select your slot." = "Please select your slot.";
+"Please tell where do you prefer?" = "Please tell where do you prefer?";
+"Please add your person count." = "Please add your person count.";
+"Order placed successfully" = "Order placed successfully";
+"Please wait for confirmation" = "Please wait for confirmation";
+"Select Map" = "Select Map";
+"Apple Map" = "Apple Map";
+"Google Map" = "Google Map";
+"Insufficient wallet balance" = "Insufficient wallet balance";
+"Person" = "Person";
+"CUSTOMER DETAILS" = "CUSTOMER DETAILS";
+"RESTURANT DETAILS" = "RESTURANT DETAILS";
+"Table Booking Completed" = "Table Booking Completed";
+"Please type OTP from customer." = "Please type OTP from customer.";
+"Post reported succesfully" = "Post reported succesfully";
+"Pull to refresh" = "Pull to refresh";
+"Location Permission Required" = "Location Permission Required";
+"Please enable location services in Settings." = "Please enable location services in Settings.";
+"Settings" = "Settings";
+"No post is available!" = "No post is available!";
+"Please add your post videos." = "Please add your post videos.";
+"Report this video" = "Report this video";
+"Enter valid OTP" = "Enter valid OTP";
+"sec" = "sec";
+"Otp send to your email id" = "Otp send to your email id";
+"Please select account type first" = "Please select account type first";
+"REFERRAL CODE" = "REFERRAL CODE";
+"REQUEST A DELEGATE" = "REQUEST A DELEGATE";
+"SELECT ACTIVITY TYPE" = "SELECT ACTIVITY TYPE";
+"STORE NAME" = "STORE NAME";
+"UPLOAD COMMERCIAL LISENCE" = "UPLOAD COMMERCIAL LISENCE";
+"COMMERCIAL REGISTRATION NO" = "COMMERCIAL REGISTRATION NO";
+"Upload associated License" = "Upload associated License";
+"Please upload commercial lisence" = "Please upload commercial lisence";
+"Please enter commercial registration no" = "Please enter commercial registration no";
+"Please upload associated lisence" = "Please upload associated lisence";
+"Orders on Process" = "Orders on Process";
+"New Orders" = "New Orders";
+"My Feed" = "My Feed";
+"Profile" = "Profile";
+"Complete Booking" = "Complete Booking";
+"Pick-Up Address" = "Pick-Up Address";
+"Service Booking" = "Service Booking";
+"Address" = "Address";
+"Play Ground Booking" = "Play Ground Booking";
+"Booking Details" = "Booking Details";
+"Chalet Booking" = "Chalet Booking";
+"Hotel Booking" = "Hotel Booking";
+"Gym Subscription" = "Gym Subscription";
+"Table Booking" = "Table Booking";
+"Please enter price" = "Please enter price";
+"  Chat with Driver" = "  Chat with Driver";
+"CARD" = "CARD";
+"COD" = "COD";
+"WALLET" = "WALLET";
+"Delivered Successfully" = "Delivered Successfully";
+"APPLE PAY" = "APPLE PAY";
+"Please valid OTP" = "Please valid OTP";
+"Delivery Requests" = "Delivery Requests";
+"Payment made successfully" = "Payment made successfully";
+"Your request has been placed successfully! please wait for confirmation" = "Your request has been placed successfully! please wait for confirmation";
+"Your payment successfully proceed! please wait for confirmation" = "Your payment successfully proceed! please wait for confirmation";
+"Book Now" = "Book Now";
+"Please add details" = "Please add details";
+"Select Date" = "Select Date";
+"Done" = "Done";
+"Select Time" = "Select Time";
+"Camera" = "Camera";
+"Gallery" = "Gallery";
+"Choose Photo" = "Choose Photo";
+"Choose Delegate Services" = "Choose Delegate Services";
+"Wallet amount is less than SAR 100. Please recharge your wallet?" = "Wallet amount is less than SAR 100. Please recharge your wallet?";
+"Please select delegate service" = "Please select delegate service";
+"Please select pick location" = "Please select pick location";
+"Please select drop location" = "Please select drop location";
+"Terms & Conditions" = "Terms & Conditions";
+"Products" = "Products";
+"Wallet" = "Wallet";
+"Card" = "Card";
+"Cash" = "Cash";
+"Delivery Address" = "Delivery Address";
+"Store Address" = "Store Address";
+"  Chat with Customer" = "  Chat with Customer";
+"Order delivered successfully" = "Order delivered successfully";
+"  Chat with Store" = "  Chat with Store";
+"  Chat with Driver" = "  Chat with Driver";
+"Invoice no. copied" = "Invoice no. copied";
+"Please wait for delivery" = "Please wait for delivery";
+"Payment via wallet is only supported method right now as pay via card is under development..." = "Payment via wallet is only supported method right now as pay via card is under development...";
+"User cancelled the payment" = "User cancelled the payment";
+"Payment failed.Please try later" = "Payment failed.Please try later";
+"Pieces" = "Pieces";
+"Quantity" = "Quantity";
+"SAR" = "SAR";
+"Add Ons:" = "Add Ons:";
+"Cart" = "Cart";
+"Please add address" = "Please add address";
+"Please select receiving option" = "Please select receiving option";
+"Please select payment option" = "Please select payment option";
+"Please select time atlest 1 hour later from now" = "Please select time atlest 1 hour later from now";
+"Please Select Date first" = "Please Select Date first";
+"No cart item found" = "No cart item found";
+"No Record Found" = "No Record Found";
+"Search" = "Search";
+"Olivia Stanford" = "Olivia Stanford";
+"On the way" = "On the way";
+"Going to site visit?" = "Going to site visit?";
+"Reached Location?" = "Reached Location?";
+"Work on progress" = "Work on progress";
+"Payment Received" = "Payment Received";
+"Did you received cash?" = "Did you received cash?";
+"Maid Service" = "Maid Service";
+"Service Completed" = "Service Completed";
+"Enter valid otp" = "Enter valid otp";
+"Please enter service charges" = "Please enter service charges";
+"Order Accepted successfully" = "Order Accepted successfully";
+"Days" = "Days";
+"Gold's Gym" = "Gold's Gym";
+"star ratings" = "star ratings";
+" Completed  " = " Completed  ";
+"New Bookings" = "New Bookings";
+"Club Subscription" = "Club Subscription";
+"Gym" = "Gym";
+"Please enter subscription number." = "Please enter subscription number.";
+"Please ADD your notes." = "Please ADD your notes.";
+"Booking completed" = "Booking completed";
+"Star Ratings" = "Star Ratings";
+" Reserved   " = " Reserved   ";
+" Delivered     " = " Delivered     ";
+"Accept" = "Accept";
+"pending  " = "pending  ";
+"Accept this Order?" = "Accept this Order?";
+"Ready For Collection" = "Ready For Collection";
+"Ready To Pickup?" = "Ready To Pickup?";
+"On The Way to collection" = "On The Way to collection";
+"On The Way" = "On The Way";
+"Select Room" = "Select Room";
+"Your payment has been done successfully!" = "Your payment has been done successfully!";
+"Per Day" = "Per Day";
+"HOTEL DETAILS" = "HOTEL DETAILS";
+"Please enter verification code." = "Please enter verification code.";
+"Remove" = "Remove";
+"Apply" = "Apply";
+"Enter valid promo code" = "Enter valid promo code";
+"Please select payment type" = "Please select payment type";
+"Please selected your subscription." = "Please selected your subscription.";
+"Please enter your full name." = "Please enter your full name.";
+"Please enter your age." = "Please enter your age.";
+"Please choose your gender." = "Please choose your gender.";
+"Please enter your dial number." = "Please enter your dial number.";
+"Please enter your phone number." = "Please enter your phone number.";
+"Please enter your email id." = "Please enter your email id.";
+"female" = "female";
+"male" = "male";
+"Gym Details" = "Gym Details";
+"End Date" = "End Date";
+"Subscription Confirmed" = "Subscription Confirmed";
+"Service Request" = "Service Request";
+"Chalet Request" = "Chalet Request";
+"sqft Area" = "sqft Area";
+"hr" = "hr";
+"PLAY GROUND DETAILS" = "PLAY GROUND DETAILS";
+"Please type your review." = "Please type your review.";
+"Please select rating star" = "Please select rating star";
+"Payment has been done successfully!" = "Payment has been done successfully!";
+"Please select time after the 1 hour from now" = "Please select time after the 1 hour from now";
+"MicSetting" = "MicSetting";
+"Track Order" = "Track Order";
+" Call Driver" = " Call Driver";
+"View Map" = "View Map";
+" Call Customer" = " Call Customer";
+" Call Service Provider" = " Call Service Provider";
+"Your order ready for collection" = "Your order ready for collection";
+"Your order is" = "Your order is";
+"Balance" = "Balance";
+"Please enter amount" = "Please enter amount";
+"Recharge wallet amount must be greater then 1 and less than 200000" = "Recharge wallet amount must be greater then 1 and less than 200000";
+"Comments" = "Comments";
+"Type your comment here..." = "Type your comment here...";
+"Please type your comment" = "Please type your comment";
+"No Comments Found!" = "No Comments Found!";
+"Reply to" = "Reply to";
+"year ago" = "year ago";
+"month ago" = "month ago";
+"day ago" = "day ago";
+"hour ago" = "hour ago";
+"min ago" = "min ago";
+"now" = "now";
+"SendingVoice" = "SendingVoice";
+"No Messages Found!" = "No Messages Found!";
+"Type a message..." = "Type a message...";
+"Offline" = "Offline";
+"Choose Image Source" = "Choose Image Source";
+"Photo Library" = "Photo Library";
+"Please select date" = "Please select date";
+"No Admin Live!" = "No Admin Live!";
+"No Live Found!" = "No Live Found!";
+"Received Message" = "Received Message";
+"Comment..." = "Comment...";
+"Are you sure you want to end your live stream?" = "Are you sure you want to end your live stream?";
+"Are you sure you want to end your live stream?" = "Are you sure you want to end your live stream?";
+"Picture" = "Picture";
+"Video" = "Video";
+"Please add your post images." = "Please add your post images.";
+"Please select maximum five post images." = "Please select maximum five post images.";
+"No Wallet History Found!" = "No Wallet History Found!";
+"please enter your amount." = "please enter your amount.";
+"My Reviews" = "My Reviews";
+"No Reviews Found!" = "No Reviews Found!";
+"Your account will be visible, and you will start receiving requests." = "Your account will be visible, and you will start receiving requests.";
+"Your account will no longer be visible to others." = "Your account will no longer be visible to others.";
+"Are you sure you want to logout?" = "Are you sure you want to logout?";
+"Manage Profile" = "Manage Profile";
+"Request to Change Profile Image?" = "Request to Change Profile Image?";
+"Yes" = "Yes";
+"No" = "No";
+"No Feeds Found" = "No Feeds Found";
+"Edit Profile" = "Edit Profile";
+"Change Password" = "Change Password";
+"Enter old password" = "Enter old password";
+"Your password must be at least 8 characters. It must include an upper and lowercase letter and a number. It can also include special characters -_?!$%^()@" = "Your password must be at least 8 characters. It must include an upper and lowercase letter and a number. It can also include special characters -_?!$%^()@";
+"The confirm password must be at least 8 characters." = "The confirm password must be at least 8 characters.";
+"Password and confirm password does not match" = "Password and confirm password does not match";
+"Edit Address" = "Edit Address";
+"Add New Address" = "Add New Address";
+"Please enter building name" = "Please enter building name";
+"Please enter street address" = "Please enter street address";
+"Please enter flat no" = "Please enter flat no";
+"Help Center" = "Help Center";
+"Please enter your message" = "Please enter your message";
+"You do not have WhatsApp installed! \nPlease install first." = "You do not have WhatsApp installed! \nPlease install first.";
+"My Address" = "My Address";
+"Are you sure you want to delete address?" = "Are you sure you want to delete address?";
+"Edit Bank Details" = "Edit Bank Details";
+"Edit Vehicle Details" = "Edit Vehicle Details";
+"Become Delivery Representative" = "Become Delivery Representative";
+"Please select front picture of the car" = "Please select front picture of the car";
+"Please select back picture of the car" = "Please select back picture of the car";
+"Please select driving license" = "Please select driving license";
+"Please select vehicle register" = "Please select vehicle register";
+"Please select vehicle type" = "Please select vehicle type";
+"Invite Friends" = "Invite Friends";
+"Copied" = "Copied";
+"Text copied to clipboard" = "Text copied to clipboard";
+"Hey there, if you do, sign up using referral code" = "Hey there, if you do, sign up using referral code";
+"you will receive 50 SAR in your wallet." = "you will receive 50 SAR in your wallet.";
+"Please eneter OTP" = "Please eneter OTP";
+"Stuffed Zucchini" = "Stuffed Zucchini";
+"Request a delegate" = "Request a delegate";
+"Results showing" = "Results showing";
+"Menu" = "Menu";
+"Room List" = "Room List";
+"Active Subscription" = "Active Subscription";
+"Details" = "Details";
+"Invalid User Details" = "Invalid User Details";
+"Completed" = "Completed";
+"COMPLETED ON" = "COMPLETED ON";
+"COMPLETED ON:" = "COMPLETED ON:";
+"Order Confirmed" = "Order Confirmed";
+"Preparing Order" = "Preparing Order";
+"   Order Delivered  " = "   Order Delivered  ";
+"Please name of establishment or owner" = "Please name of establishment or owner";
+"Select DOB" = "Select DOB";
+"Please enter residency no" = "Please enter residency no";
+"Please enter nationality" = "Please enter nationality";
+"Please enter dob" = "Please enter dob";
+"Please Select a valid face image" = "Please Select a valid face image";
+"seconds" = "seconds";
+"Skip" = "Skip";
+"Google Maps is not installed on the device." = "Google Maps is not installed on the device.";
+
+
+"Balance Earnings" = "Balance Earnings";
+"You can ernings up to" = "You can ernings up to";
+"WITHDRAW ERNINGS" = "WITHDRAW ERNINGS";
+"WILL DO IT LATER" = "WILL DO IT LATER";
+"Banned Accounts" = "Banned Accounts";
+"Just Now" = "Just Now";
+"Unblock" = "Unblock";
+"My Bookings" = "My Bookings";
+"Rate the app" = "Rate the app";
+"Language" = "Language";
+"App Color Theme" = "App Color Theme";
+"Please enter store name" = "Please enter store name";
+"My Orders" = "My Orders";
+"Received Order" = "Received Order";
+
+"Product List" = "Product List";
+
+"No Slot Found!" = "No Slot Found!";
+
+///@@@@**********@@@@///
+
+"My Orders Not Found!" = "My Orders Not Found!";
+"Received Orders" = "Received Orders";
+"Received Orders Not Found!" = "Received Orders Not Found!";
+"You have no service requests" = "You have no service requests";
+"Delete My Account" = "Delete My Account";
+"Are you sure you want to Delete Your account?" = "Are you sure you want to Delete Your account?";
+//"No Followers Found" = "لم يتم العثور على متابعين";
+//"User Not Following Anyone" = "المستخدم لا يتابع أي شخص";
+//"You have no reserved booking" = "ليس لديك حجز محجوز";
+//"You have no booking request" = "ليس لديك طلب حجز";
+//"No Data Found!" = "لاتوجد بيانات!";
+//"You have no subscription" = "ليس لديك اشتراك";
+//"You have'nt received any subscription" = "لم تتلق أي اشتراك";
+//"You have no Notifications" = "ليس لديك أي إشعارات";
+//"No delivery request Found!" = "لم يتم العثور على طلب التسليم!";
+//"Account not verified" = "لم يتم التحقق من الحساب";
+//"No delegate request Found!" = "لم يتم العثور على طلب مندوب!";
+//"No delivery or deligate request Found!" = "لم يتم العثور على طلب تسليم أو تفويض!";
+//"You have no request" = "ليس لديك طلب";
+//"You have'nt received any request" = "لم تتلق أي طلب";
+//"Reviews and Rattings" = "التعليقات والتقييمات";
+//"Your Balance" = "رصيدك";
+//"Recharge" = "تعبئة رصيد";
+//"Withdraw" = "ينسحب";
+//"Total Earned" = "إجمالي المكتسبة";
+//"Overall Earnings" = "الأرباح الإجمالية";
+//"Last Requested Amount" = "آخر المبلغ المطلوب";
+//"Flat No" = "رقم الشقة";
+//"Location On Map" = "الموقع على الخريطة";
+//"Landmark" = "معلم معروف";
+//"Post code" = "شفرة البريد";
+//"Save Address" = "حفظ العنوان";
+//"Mobile Number" = "رقم الهاتف المحمول";
+//"ADDRESS" = "عنوان";
+//"Update" = "تحديث";
+//"COMMERCIAL REGISTRATION DETAILS" = "تفاصيل التسجيل التجاري";
+//"Account No" = "رقم الحساب";
+//"Bank name" = "اسم البنك";
+//"Received Bookings" = "الحجوزات المستلمة";
+//"Outdoor" = "في الخارج";
+//"IBAN Code" = "رقم الايبان";
+//"BANK ACCOUNT DETAILS" = "بيانات الحساب البنكي";
+//"VEHICLE DETAILS" = "بيانات المركبة";
+//"Front picture of the car" = "الصورة الأمامية للسيارة";
+//"Car picture from the back" = "صورة السيارة من الخلف";
+//"Vehicle Registration" = "استمارة المركبة";
+//"Driving License" = "رخصة قيادة";
+//"VEHICLE TYPE" = "نوع السيارة";
+//"MOTORCYCLE" = "دراجة نارية";
+//"Pick Up" = "يلتقط";
+//"Normal" = "طبيعي";
+//"Medium Truck" = "شاحنة متوسطة";
+//"Big Truck" = "شاحنة كبيرة";
+//"Primary" = "أساسي";
+//"Your order has been placed successfully! please wait for confirmation" = "لقد تم تقديم طلبك بنجاح! برجاء انتظار التأكيد";
+//"Invoice no" = "رقم الفاتورة";
+//"Return To Home" = "العودة إلى المنزل";
+//"Size Chart" = "حجم الرسم البياني";
+//"Search here.." = "ابحث هنا..";
+//"Search what you need..." = "ابحث عما تحتاجه...";
+//"Clear all" = "مسح الكل";
+//"Apply Fliter" = "تطبيق الفلتر";
+//"DELIVERY REQUEST" = "طلب التسليم";
+//"DELEGATE SERVICE" = "خدمة المندوبين";
+//"Modify Filter  " = "تعديل الفلتر";
+//"Chat is not allowed as the order has been Delivered." = "الدردشة غير مسموح بها حيث تم تسليم الطلب.";
+//"No data Found!" = "لاتوجد بيانات!";
+//"Contact Us" = "اتصل بنا";
+//"HOW WAS YOUR EXPERIENCE?" = "كيف كانت تجربتك؟";
+//"Submit" = "اكمال ";
+//"WILL DO IT LATER" = "سوف افعل ذلك لاحقا";
+//"Discount" = "تخفيض";
+//"Payment Type" = "نوع الدفع";
+//"  Payment Methods" = "طرق الدفع";
+//"Cash Payment" = "دفع نقدا";
+//"Services Charge" = "رسوم الخدمات";
+//"VERIFICATION CODE FOR SERVICE PROVIDER" = "رمز التحقق لمقدم الخدمة";
+//"Complete Comments" = "التعليقات الكاملة";
+//"Notes" = "ملحوظات";
+//"Old Password" = "كلمة المرور القديمة";
+//"New Password" = "كلمة المرور الجديدة ";
+//"Password" = "الرقم السري";
+//"Confirm Password" = "تأكيد كلمة المرور";
+//"Full Name" = "الاسم الكامل";
+//"Email Address" = "عنوان البريد الإلكتروني";
+//"Other Addresses" = "عناوين أخرى";
+//"Add new address" = "إضافة عنوان جديد";
+//"Set as default address" = "تثبيت العنوان";
+//"your message..." = "رسالتك...";
+//"Product List" = "قائمة المنتجات";
+//"Delivery Option" = "خيار تسليم";
+//"Item total" = "";
+//"Item total" = "مجموع الاشياء";
+//"Store address" = "عنوان المتجر";
+//"Make a Review" = "قم بمراجعة";
+//"You need to send something else?" = "هل تحتاج إلى إرسال شيء آخر؟";
+//"service" = "خدمة";
+//"Premium Exercise" = "تمرين ممتاز";
+//"Home House" = "منزل منزل";
+//"Adults" = "الكبار";
+//"Room" = "غرفة";
+//"Child" = "طفل";
+//"credited" = "الفضل";
+//"debited" = "مدين";
+
+
+
+//
+//Menu
+//About
+//Promotional Code
+//Thank You
+//Your payment successfully proceed! \n Please wait for further updates
+//Your order has been placed successfully ! \n Please wait for confirmation
+//Your Subscription has been completed successfully !
+//Invoice no:
+//View Order Details
+//
+//Add To Cart
+//Change
+//Items in cart
+//Choose a delivery option
+//Promotional Code
+//Enter Promocode
+//Apply
+//Remove
+//Bill Details
+//Item Total
+//Delivery Charge
+//Tax Charge
+//Service Charges
+//SERVICE CHARGES
+//Payment Method
+//Grand Total
+//Place your order
+//Request a delegate
+//Products List
+//Payment Methods
+//Pay Now
+//Assigned Representative
+//Verification Code For Representative
+//Enter the verification number from customer
+//-Give star rating
+//Delivered Details
+//WRITE A REVIEW
+//How was your experience?
+//Submit
+//Will do it later
+//Permissions not granted by the user.
+//Add New Address
+//Use My Current Location
+//Edit
+//Current Location
+//land Mark (Optional)
+//Street Address
+//Building Name
+//Set as Default Address
+//Accept this Order?
+//Ready to Prepare?
+//Ready to Pickup?
+//Ready for collection?
+//Accept
+//Reject
+//Reviews and Rating
+//Start to Prepare
+//Waiting for confirmation
+//Payment received
+//Ready to Collect
+//Order Delivered
+//On the way
+//Business Settings
+//Complaint list
+//Tax certificate
+//Banned accounts
+//After-sales service
+//General Settings
+//Edit profile
+//Change password
+//My Bookings
+//Ground Bookings
+//My Address
+//Rate the app
+//Invite Friends
+//Language
+//Download the commercial license
+//COMMERCIAL REGISTRATION NO
+//UPLOAD ASSOCIATED LICENSE
+//NAME OF ESTABLISHMENT OR OWNER
+//STORE NAME
+//Residence No
+//Your account details has been\n updated successfully.
+//Your account has been registered, wait for activation and authentication.
+//COMMERCIAL REGISTRATION NO
+//Book now
+//Select your slot
+//Persons
+//View Booking Details
+//Place your Requests
+//Billing Amount
+//Schedule Date
+//Service Charge
+//Taxes Charges
+//
+//Your request has been placed successfully ! Please wait for confirmation.
+//Booking Details
+//Days
+//Hours
+//Minutes
+//Seconds
+//Booking Verification
+//Playground Details
+//Restaurant Details
+//Verification Code For Ground Manager
+//Verification Code For Restaurant Manager
+//Enter the verification number from Customer
+//Enter the verification number for Ground Manager
+//Enter the verification number from Seller
+//Seller
+//Sellers
+//Completed on
+//Ground Location
+//Restaurant Location
+//Stadiums List
+//New Bookings
+//Accept this Booking?
+//Accept this Service?
+//Booking Confirmed
+//Sub Total
+//Reserve the slot?
+//Playground Booking
+//Table Booking
+//Reserved
+//Customer Details
+//Enter to the Ground
+//Completed
+//
+//
+//Select Activity Type
+//Nationality
+//Request on Process
+//New Request
+//Active Subscription
+//Subscription accepted successfully
+//Service Request
+//Accept this Request?
+//Accept this Offer?
+//Accept the Offer?
+//Service Summary
+//Your requirement
+//
+//Uploads
+//Accept The Request
+//YOUR PRICE
+//ANY NOTE
+//Your Offer has been placed successfully ! \n Please wait for communication
+//Your subscription has been completed successfully!
+//View Request Details
+//On the way to site
+//Continue
+//Reached Site
+//Going to site visit?
+//Work on Progress
+//Pay in Cash
+//Yes
+//No
+//Work Completed
+//Location Details
+//Location
+//Check in
+//Check out
+//City
+//Sort By
+//Amenities
+//Rating
+//Price Range
+//SAR \n 100.00
+//Location Received
+//Waiting for approval
+//Any Comments
+//No Comments Found!
+//Select your subscription Package
+//What is the required Service?
+//Service Provider Details
+//Your Payment successfully proceed! \n Please wait for further updates
+//Your Booking has been placed successfully ! Please wait for confirmation.
+//DRIVER NAME
+//RESIDENCE NO
+//DATE OF BIRTH
+//NATIONALITY
+//Vehicle Details
+//Vehicle Type
+//The Galleria - Abu Dhabi - UAE
+//name="products">Products
+//Orders on Process
+//New orders
+//Details
+//Route Location
+//On the way to collection
+//On the way to delivery
+//Delivered
+//Packages
+//Subscription Details
+//Club Subscription
+//Accept The Subscription
+//Reserve the slot?
+//Place your Booking
+//Waiting for your schedule
+//Active now
+//video
+//Subject
+//Your feedback helps us make your experience better
+//WOULD YOU LIKE TO RATE US?
+//Title
+//Review (Optional)
+//Will do it later
+//Validation
+//
+//
+//Please upload Commercial Licence
+//Please upload Associate Licence
+//Please upload profile picture
+//Store name should not be empty...
+//Email should not be empty...
+//Dial Code should not be empty...
+//Please choose date of birth...
+//Phone should not be empty...
+//Password should not be empty...
+//Confirm Password should not be empty...
+//Commercial registration Details
+//Continue
+//My Requests
+//My Orders
+//Table Booking
+//Manage Profile
+//Delivery Requests
+//Please add your address
+//Add Address
+//Address is Empty
+//Service Booking
+//Subscriptions
+//My Reviews
+//Balance
+//Setting
+//Hide Profile?
+//Coupon Discount
+//Scheduled Date
+//Choose Image Source
+//Gallery
+//More
+//Set as Default
+//Camera
+//Choose a Picture
+//Did you received cash?
+//Completed Details
+//Chalet Booking
+//Received Requests
+//No Notification Found!
+//No Following Found!
+//No reviews Found!
+//No Booking Found!
+//No Message Found!
+//No Product Found!
+//No Post Found!
+//No Slot Found!
+//No Ground Found!
+//No History Found!
+//No Chalet Found!
+//Hotel Details
+//Hotel Bookings
+//To reset your password, please enter your email id
+//Reset Password
+//OTP
+//To verify your mobile number, please enter the OTP that is sent to your mobile device
+//Resend
+//Reservation
+//Hotel
+//Chalet
+//Ground
+//Pools
+//Services
+//Shopping
+//Terms & Conditions
+//Posts
+//Followings
+//Followers
+//Enter Amount
+//Skip
+//Replying to
+//Following
+//Track your package on the map above, or call if needed.
+//Call Driver
+//Call Customer
+//Call Store
+//View File
+//My Feeds
+//Received Order
+//Logout
+//What are you sending?
+//Pick Up Location
+//Drop Off Location
+//Request Summary
+//Type of Service
+//Mode of Delivery
+//Special Care
+//Delegate
+//Delivery Requests
+//Delegate Requests
+//Delivery
+//Add Bill Details
+//Service charge
+//Become a Delivery Representative
+//Name
+//Choose New Service
+//Products/Service Charge
+//Food
+//Chalete
+//Chalets
+//Share with friends and earn
+//Give this code to friends or someone, and\n after the first request , they will receive 10\n riyals in their wallet and 10 riyals in your\n wallet within 8 hours
+//Share
+//View Details
+//Quote added successfully
+//Booking made successfully
+//Payment made successfully
+//Order placed successfully
+//Order completed successfully
+//Booking completed successfully
+//Where do you prefer?
+//All
+//Earnings
+//Order cancellation and refund will not be applicable once order has been confirmed.
+//REPORT THIS POST
+//You can report this chat to “Live Market” if you think that it goes against our Community Guidelines. We Won’t notify the account that you submitted this report.
+//Nudity or sexual activity
+//Hate speech or symbols
+//Scam or fraud
+//Violence or dangerous organisations
+//Sale of illegal or regulated goods
+//Bullying or harassment
+//Pretending to be someone else
+//Enter Your Comments Below
+//WHAT ELSE WOULD YOU LIKE TO DO?
+//We won’t let them know if you take any of these actions.
