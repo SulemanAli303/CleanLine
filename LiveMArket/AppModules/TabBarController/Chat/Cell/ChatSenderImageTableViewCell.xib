@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Poppins-Medium.ttf">
+            <string>Poppins-Medium</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="281" id="KGk-i7-Jjw" customClass="ChatSenderImageTableViewCell" customModule="Live_Market" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="281"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="281"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="RMd-kC-ZOQ">
+                        <rect key="frame" x="60" y="5" width="250" height="250"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="placeholder_banner" translatesAutoresizingMaskIntoConstraints="NO" id="ks1-Ql-GTv">
+                                <rect key="frame" x="5" y="5" width="240" height="240"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="ibcornerRadius">
+                                        <real key="value" value="10"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1Cp-p9-fu0">
+                                <rect key="frame" x="5" y="5" width="240" height="240"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nf4-6D-ZxJ">
+                                <rect key="frame" x="15" y="219" width="220" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="Ae8-CU-l8N"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Poppins-Medium" family="Poppins" pointSize="12"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="nf4-6D-ZxJ" firstAttribute="trailing" secondItem="ks1-Ql-GTv" secondAttribute="trailing" constant="-10" id="3zV-XH-bHU"/>
+                            <constraint firstItem="1Cp-p9-fu0" firstAttribute="trailing" secondItem="ks1-Ql-GTv" secondAttribute="trailing" id="6iu-HO-pJM"/>
+                            <constraint firstItem="ks1-Ql-GTv" firstAttribute="top" secondItem="RMd-kC-ZOQ" secondAttribute="top" constant="5" id="DIw-hs-FPh"/>
+                            <constraint firstItem="1Cp-p9-fu0" firstAttribute="leading" secondItem="ks1-Ql-GTv" secondAttribute="leading" id="EZ1-w8-2EC"/>
+                            <constraint firstItem="ks1-Ql-GTv" firstAttribute="leading" secondItem="RMd-kC-ZOQ" secondAttribute="leading" constant="5" id="Fk4-8d-3js"/>
+                            <constraint firstAttribute="bottom" secondItem="ks1-Ql-GTv" secondAttribute="bottom" constant="5" id="Fsu-dF-Sgy"/>
+                            <constraint firstItem="1Cp-p9-fu0" firstAttribute="top" secondItem="ks1-Ql-GTv" secondAttribute="top" id="G5c-Zx-JNl"/>
+                            <constraint firstAttribute="trailing" secondItem="ks1-Ql-GTv" secondAttribute="trailing" constant="5" id="Ifn-kt-GvD"/>
+                            <constraint firstItem="nf4-6D-ZxJ" firstAttribute="leading" secondItem="ks1-Ql-GTv" secondAttribute="leading" constant="10" id="Os3-gQ-7XV"/>
+                            <constraint firstAttribute="height" constant="250" id="WhB-Af-Opr"/>
+                            <constraint firstAttribute="width" constant="250" id="fCK-Gs-xMp"/>
+                            <constraint firstItem="1Cp-p9-fu0" firstAttribute="bottom" secondItem="ks1-Ql-GTv" secondAttribute="bottom" id="hQs-UV-X9u"/>
+                            <constraint firstItem="nf4-6D-ZxJ" firstAttribute="bottom" secondItem="ks1-Ql-GTv" secondAttribute="bottom" constant="-5" id="huG-13-FVQ"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="ibcornerRadius">
+                                <real key="value" value="5"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstItem="RMd-kC-ZOQ" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="5" id="P4I-BS-uNR"/>
+                    <constraint firstAttribute="trailing" secondItem="RMd-kC-ZOQ" secondAttribute="trailing" constant="10" id="l9I-GR-pNv"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="chatImageView" destination="ks1-Ql-GTv" id="1Rx-eJ-4pM"/>
+                <outlet property="imageButton" destination="1Cp-p9-fu0" id="pmR-L7-izK"/>
+                <outlet property="timeLabel" destination="nf4-6D-ZxJ" id="e1u-dZ-NTa"/>
+            </connections>
+            <point key="canvasLocation" x="-35.114503816793892" y="8.0985915492957758"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="placeholder_banner" width="375" height="260"/>
+    </resources>
+</document>
