@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Roboto-Regular.ttf">
+            <string>Roboto-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="EventFaclitiesCell" id="gTV-IL-0wX" customClass="EventFaclitiesCell" customModule="Live_Market" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="159" height="112"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="159" height="112"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="OIm-fa-XMI">
+                        <rect key="frame" x="10" y="0.0" width="139" height="112"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="An3-z5-lpA">
+                                <rect key="frame" x="0.0" y="8" width="139" height="94"/>
+                                <subviews>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="InK-DX-8rR">
+                                        <rect key="frame" x="0.0" y="0.0" width="139" height="40"/>
+                                        <subviews>
+                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="wifi" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="ouv-qt-78O">
+                                                <rect key="frame" x="54.666666666666671" y="7.3333333333333304" width="30" height="25.666666666666668"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="30" id="eO1-Ve-WDB"/>
+                                                    <constraint firstAttribute="width" constant="30" id="qXE-5K-WVZ"/>
+                                                </constraints>
+                                            </imageView>
+                                        </subviews>
+                                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="40" id="Agp-N2-yCc"/>
+                                            <constraint firstItem="ouv-qt-78O" firstAttribute="centerY" secondItem="InK-DX-8rR" secondAttribute="centerY" id="fm0-Lp-eGt"/>
+                                            <constraint firstItem="ouv-qt-78O" firstAttribute="centerX" secondItem="InK-DX-8rR" secondAttribute="centerX" id="uzN-vo-1rP"/>
+                                        </constraints>
+                                    </view>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Wifi" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" minimumFontSize="4" translatesAutoresizingMaskIntoConstraints="NO" id="LsI-SD-w5b">
+                                        <rect key="frame" x="0.0" y="40" width="139" height="54"/>
+                                        <fontDescription key="fontDescription" name="Roboto-Regular" family="Roboto" pointSize="12"/>
+                                        <color key="textColor" red="0.20392156862745098" green="0.20392156862745098" blue="0.20392156862745098" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="An3-z5-lpA" secondAttribute="trailing" id="0Wp-Wz-z3L"/>
+                            <constraint firstItem="An3-z5-lpA" firstAttribute="top" secondItem="OIm-fa-XMI" secondAttribute="top" constant="8" id="GKR-K8-dvs"/>
+                            <constraint firstAttribute="bottom" secondItem="An3-z5-lpA" secondAttribute="bottom" constant="10" id="SEx-Tz-ULU"/>
+                            <constraint firstItem="An3-z5-lpA" firstAttribute="leading" secondItem="OIm-fa-XMI" secondAttribute="leading" id="zWi-8F-EGx"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstItem="ZTg-uK-7eu" firstAttribute="leading" secondItem="OIm-fa-XMI" secondAttribute="leading" constant="-10" id="BKj-J4-xrK"/>
+                <constraint firstItem="OIm-fa-XMI" firstAttribute="trailing" secondItem="ZTg-uK-7eu" secondAttribute="trailing" constant="-10" id="J6I-4v-I83"/>
+                <constraint firstItem="OIm-fa-XMI" firstAttribute="bottom" secondItem="ZTg-uK-7eu" secondAttribute="bottom" id="Lev-H1-OxY"/>
+                <constraint firstAttribute="top" secondItem="OIm-fa-XMI" secondAttribute="top" id="yvN-po-hcw"/>
+            </constraints>
+            <size key="customSize" width="159" height="112"/>
+            <connections>
+                <outlet property="img" destination="ouv-qt-78O" id="hGQ-hK-YmT"/>
+                <outlet property="name" destination="LsI-SD-w5b" id="erQ-xR-DnO"/>
+            </connections>
+            <point key="canvasLocation" x="23.846153846153847" y="42.654028436018955"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="wifi" catalog="system" width="128" height="90"/>
+    </resources>
+</document>
