@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "0"; ObjectID = "4KK-aJ-oBC"; */
+"4KK-aJ-oBC.text" = "0";
+
+/* Class = "UILabel"; text = "Menu"; ObjectID = "CiE-ZD-hRE"; */
+"CiE-ZD-hRE.text" = "Menu";
+
+/* Class = "UIButton"; normalTitle = "Book Now"; ObjectID = "El9-1h-viN"; */
+"El9-1h-viN.normalTitle" = "Book Now";
+
+/* Class = "UITextField"; placeholder = "Drop Off Location"; ObjectID = "Pbg-Zz-KX1"; */
+"Pbg-Zz-KX1.placeholder" = "Drop Off Location";
+
+/* Class = "UITextField"; text = "Book A Table"; ObjectID = "Pbg-Zz-KX1"; */
+"Pbg-Zz-KX1.text" = "Book A Table";
