@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; configuration.title = "+"; ObjectID = "25W-je-exs"; */
+"25W-je-exs.configuration.title" = "+";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "25W-je-exs"; */
+"25W-je-exs.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "You May Also Like"; ObjectID = "2Rn-kj-c9A"; */
+"2Rn-kj-c9A.text" = "You May Also Like";
+
+/* Class = "UILabel"; text = "4 Star Rattings"; ObjectID = "3AE-A6-JVP"; */
+"3AE-A6-JVP.text" = "4 Star Rattings";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "3Qt-6A-v3V"; */
+"3Qt-6A-v3V.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Add to Cart"; ObjectID = "AjP-HO-EfN"; */
+"AjP-HO-EfN.normalTitle" = "Add to Cart";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "GuI-WO-3ab"; */
+"GuI-WO-3ab.text" = "About";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "LBP-ZC-r8l"; */
+"LBP-ZC-r8l.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Size Chart"; ObjectID = "O0n-d2-u5B"; */
+"O0n-d2-u5B.normalTitle" = "Size Chart";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "bTP-L7-42G"; */
+"bTP-L7-42G.text" = "1";
+
+/* Class = "UIButton"; configuration.title = "-"; ObjectID = "wVU-7X-br6"; */
+"wVU-7X-br6.configuration.title" = "-";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wVU-7X-br6"; */
+"wVU-7X-br6.normalTitle" = "Button";
