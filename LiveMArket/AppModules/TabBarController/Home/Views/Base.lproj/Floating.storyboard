@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--FloatingVC-->
+        <scene sceneID="OCw-Dk-w9P">
+            <objects>
+                <viewController storyboardIdentifier="FloatingVC" id="eTh-jP-eQc" customClass="FloatingVC" customModule="LiveMArket" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="PzK-JU-J1z">
+                        <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="254540584880" translatesAutoresizingMaskIntoConstraints="NO" id="HHl-q4-5aU">
+                                <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+                            </imageView>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" alignment="center" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="nvJ-4j-8Gg">
+                                <rect key="frame" x="105" y="630" width="180" height="170"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0tF-iQ-bhy">
+                                        <rect key="frame" x="65" y="0.0" width="50" height="50"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="50" id="VJp-cC-HmJ"/>
+                                        </constraints>
+                                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                        <state key="normal" image="Group 236126"/>
+                                        <connections>
+                                            <action selector="imageBtn:" destination="eTh-jP-eQc" eventType="touchUpInside" id="der-A7-9XD"/>
+                                        </connections>
+                                    </button>
+                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="80" translatesAutoresizingMaskIntoConstraints="NO" id="4hH-Yf-aig">
+                                        <rect key="frame" x="0.0" y="60" width="180" height="50"/>
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ipo-4m-3wu">
+                                                <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="50" id="BfK-Gx-5UH"/>
+                                                    <constraint firstAttribute="width" constant="50" id="t24-kF-q4a"/>
+                                                </constraints>
+                                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                                <state key="normal" image="Group 235298"/>
+                                                <connections>
+                                                    <action selector="LiveBtn:" destination="eTh-jP-eQc" eventType="touchUpInside" id="q14-MR-9NJ"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HdA-bg-kZt">
+                                                <rect key="frame" x="130" y="0.0" width="50" height="50"/>
+                                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                                <state key="normal" image="Group 236127"/>
+                                                <connections>
+                                                    <action selector="videoBtn:" destination="eTh-jP-eQc" eventType="touchUpInside" id="NJp-q4-fUm"/>
+                                                </connections>
+                                            </button>
+                                        </subviews>
+                                    </stackView>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YSA-WM-CJk">
+                                        <rect key="frame" x="65" y="120" width="50" height="50"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="50" id="A0u-vX-6Ug"/>
+                                        </constraints>
+                                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                        <state key="normal" backgroundImage="close"/>
+                                        <connections>
+                                            <action selector="cross:" destination="eTh-jP-eQc" eventType="touchUpInside" id="yz5-ap-REp"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="EkI-X7-Ntx"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="EkI-X7-Ntx" firstAttribute="trailing" secondItem="HHl-q4-5aU" secondAttribute="trailing" id="MyJ-5H-t1j"/>
+                            <constraint firstAttribute="top" secondItem="HHl-q4-5aU" secondAttribute="top" id="Tjq-oZ-CUB"/>
+                            <constraint firstItem="EkI-X7-Ntx" firstAttribute="bottom" secondItem="nvJ-4j-8Gg" secondAttribute="bottom" constant="10" id="WPJ-eh-skW"/>
+                            <constraint firstItem="HHl-q4-5aU" firstAttribute="bottom" secondItem="PzK-JU-J1z" secondAttribute="bottom" id="fZO-UW-B0T"/>
+                            <constraint firstItem="nvJ-4j-8Gg" firstAttribute="centerX" secondItem="EkI-X7-Ntx" secondAttribute="centerX" id="ouR-Rz-zJn"/>
+                            <constraint firstItem="HHl-q4-5aU" firstAttribute="leading" secondItem="EkI-X7-Ntx" secondAttribute="leading" id="z4m-Mk-tG9"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="btn" destination="YSA-WM-CJk" id="PTJ-Hi-0MA"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="fGP-ub-N1m" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-4744" y="-113"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="254540584880" width="375" height="812"/>
+        <image name="Group 235298" width="62" height="62"/>
+        <image name="Group 236126" width="51" height="51"/>
+        <image name="Group 236127" width="51" height="51"/>
+        <image name="close" width="25" height="25"/>
+    </resources>
+</document>
