@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "#LM-501248596038"; ObjectID = "2f9-Jf-Dit"; */
+"2f9-Jf-Dit.text" = "#LM-501248596038";
+
+/* Class = "UIButton"; normalTitle = "Profile"; ObjectID = "7sv-Ea-Gl6"; */
+"7sv-Ea-Gl6.normalTitle" = "Profile";
+
+/* Class = "UIButton"; normalTitle = "Make a Review"; ObjectID = "Pgr-xU-QAh"; */
+"Pgr-xU-QAh.normalTitle" = "Make a Review";
+
+/* Class = "UILabel"; text = "Order Placed Successfully"; ObjectID = "lw8-P5-knY"; */
+"lw8-P5-knY.text" = "Order Placed Successfully";
+
+/* Class = "UILabel"; text = "Invoice no:"; ObjectID = "qLL-7U-p7q"; */
+"qLL-7U-p7q.text" = "Invoice no:";
+
+/* Class = "UIButton"; normalTitle = "Profile"; ObjectID = "rz4-pk-enb"; */
+"rz4-pk-enb.normalTitle" = "Profile";
+
+/* Class = "UILabel"; text = "Please wait for confirmation"; ObjectID = "wMb-8w-xD1"; */
+"wMb-8w-xD1.text" = "Please wait for confirmation";
