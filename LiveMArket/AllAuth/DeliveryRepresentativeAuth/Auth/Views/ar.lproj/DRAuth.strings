@@ -1,0 +1,141 @@
+
+/* Class = "UILabel"; text = "YOUR ACCOUNT HAS BEEN REGISTERED,\nWAIT FOR ACTIVATION AND AUTHENTICATION."; ObjectID = "16m-Pw-yD1"; */
+"16m-Pw-yD1.text" = "YOUR ACCOUNT HAS BEEN REGISTERED,\nWAIT FOR ACTIVATION AND AUTHENTICATION.";
+
+/* Class = "UILabel"; text = "CREATE AN ACCOUNT"; ObjectID = "1jX-iE-W5a"; */
+"1jX-iE-W5a.text" = "CREATE AN ACCOUNT";
+
+/* Class = "UILabel"; text = "CREATE AN ACCOUNT"; ObjectID = "20f-WZ-Be3"; */
+"20f-WZ-Be3.text" = "CREATE AN ACCOUNT";
+
+/* Class = "UITextField"; placeholder = "Nationality"; ObjectID = "2IX-Yx-AI1"; */
+"2IX-Yx-AI1.placeholder" = "Nationality";
+
+/* Class = "UITextField"; placeholder = "EMAIL ADDRESS"; ObjectID = "4II-aC-jE7"; */
+"4II-aC-jE7.placeholder" = "EMAIL ADDRESS";
+
+/* Class = "UILabel"; text = "CREATE AN ACCOUNT"; ObjectID = "5mj-9s-n7j"; */
+"5mj-9s-n7j.text" = "CREATE AN ACCOUNT";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "92G-op-Lrm"; */
+"92G-op-Lrm.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "9FI-AE-XXe"; */
+"9FI-AE-XXe.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "FILL YOUR BASIC INFO"; ObjectID = "9ni-Zu-ru2"; */
+"9ni-Zu-ru2.text" = "FILL YOUR BASIC INFO";
+
+/* Class = "UILabel"; text = "Vehicle Registration"; ObjectID = "BXJ-zS-Xmw"; */
+"BXJ-zS-Xmw.text" = "Vehicle Registration";
+
+/* Class = "UILabel"; text = "Car picture from the back"; ObjectID = "Dch-sU-HKT"; */
+"Dch-sU-HKT.text" = "Car picture from the back";
+
+/* Class = "UITextField"; placeholder = "BANK NAME"; ObjectID = "EYw-JA-ncw"; */
+"EYw-JA-ncw.placeholder" = "BANK NAME";
+
+/* Class = "UILabel"; text = "+971"; ObjectID = "EbQ-P8-waQ"; */
+"EbQ-P8-waQ.text" = "+971";
+
+/* Class = "UILabel"; text = "Pick Up"; ObjectID = "F0J-40-D0n"; */
+"F0J-40-D0n.text" = "Pick Up";
+
+/* Class = "UILabel"; text = "FILL YOUR BASIC INFO"; ObjectID = "G1z-QC-0uV"; */
+"G1z-QC-0uV.text" = "FILL YOUR BASIC INFO";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "Hzp-j7-Mn2"; */
+"Hzp-j7-Mn2.placeholder" = "City";
+
+/* Class = "UITextField"; placeholder = "Date of Birth"; ObjectID = "KqF-NA-jVT"; */
+"KqF-NA-jVT.placeholder" = "Date of Birth";
+
+/* Class = "UITextField"; placeholder = "REFERRAL CODE"; ObjectID = "Ljr-Wd-lBw"; */
+"Ljr-Wd-lBw.placeholder" = "REFERRAL CODE";
+
+/* Class = "UITextField"; placeholder = "ACCOUNT NUMBER"; ObjectID = "NTf-cp-Awa"; */
+"NTf-cp-Awa.placeholder" = "ACCOUNT NUMBER";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "NVl-Ss-x2W"; */
+"NVl-Ss-x2W.normalTitle" = "Continue";
+
+/* Class = "UITextField"; placeholder = "CONFIRM PASSWORD"; ObjectID = "P9A-2Z-Ccx"; */
+"P9A-2Z-Ccx.placeholder" = "CONFIRM PASSWORD";
+
+/* Class = "UILabel"; text = "AIRPORT ROAD - CASABLANCA ST - DUBAI - UNITED ARAB EMIRATES"; ObjectID = "QSn-Jy-lJJ"; */
+"QSn-Jy-lJJ.text" = "AIRPORT ROAD - CASABLANCA ST - DUBAI - UNITED ARAB EMIRATES";
+
+/* Class = "UITextField"; placeholder = "IBAN CODE"; ObjectID = "TMN-FK-ey0"; */
+"TMN-FK-ey0.placeholder" = "IBAN CODE";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Tla-5T-3FO"; */
+"Tla-5T-3FO.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Home"; ObjectID = "VWd-Qf-Ksg"; */
+"VWd-Qf-Ksg.normalTitle" = "Home";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "VaP-Gt-vlN"; */
+"VaP-Gt-vlN.placeholder" = "Country";
+
+/* Class = "UITextField"; placeholder = "MOBILE NUMBER"; ObjectID = "Voy-od-faE"; */
+"Voy-od-faE.placeholder" = "MOBILE NUMBER";
+
+/* Class = "UILabel"; text = "Big Truck"; ObjectID = "YvI-lt-4aY"; */
+"YvI-lt-4aY.text" = "Big Truck";
+
+/* Class = "UITextField"; placeholder = "Residence No"; ObjectID = "ZuE-gh-RVf"; */
+"ZuE-gh-RVf.placeholder" = "Residence No";
+
+/* Class = "UITextField"; placeholder = "Driver Name"; ObjectID = "aRc-lY-rsT"; */
+"aRc-lY-rsT.placeholder" = "Driver Name";
+
+/* Class = "UILabel"; text = "Medium Truck"; ObjectID = "aY2-LL-QVe"; */
+"aY2-LL-QVe.text" = "Medium Truck";
+
+/* Class = "UILabel"; text = "CREATE AN ACCOUNT"; ObjectID = "btA-hW-uhY"; */
+"btA-hW-uhY.text" = "CREATE AN ACCOUNT";
+
+/* Class = "UILabel"; text = "Front picture of the car"; ObjectID = "fwO-Nh-eM0"; */
+"fwO-Nh-eM0.text" = "Front picture of the car";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "h1f-eQ-39K"; */
+"h1f-eQ-39K.normalTitle" = "Next";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "i0N-Wn-Lbo"; */
+"i0N-Wn-Lbo.placeholder" = "PASSWORD";
+
+/* Class = "UILabel"; text = "Driving License"; ObjectID = "i1b-59-vR5"; */
+"i1b-59-vR5.text" = "Driving License";
+
+/* Class = "UILabel"; text = "FILL YOUR BASIC INFO"; ObjectID = "l8b-9q-8Nu"; */
+"l8b-9q-8Nu.text" = "FILL YOUR BASIC INFO";
+
+/* Class = "UILabel"; text = "MOTORCYCLE"; ObjectID = "mmG-bS-wXa"; */
+"mmG-bS-wXa.text" = "MOTORCYCLE";
+
+/* Class = "UILabel"; text = "BANK ACCOUNT DETAILS"; ObjectID = "mwB-zz-1Dh"; */
+"mwB-zz-1Dh.text" = "BANK ACCOUNT DETAILS";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "ndw-sk-TAE"; */
+"ndw-sk-TAE.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Normal"; ObjectID = "p0B-hb-3d3"; */
+"p0B-hb-3d3.text" = "Normal";
+
+/* Class = "UILabel"; text = "FILL YOUR BASIC INFO"; ObjectID = "pon-iw-ehC"; */
+"pon-iw-ehC.text" = "FILL YOUR BASIC INFO";
+
+/* Class = "UILabel"; text = "VEHICLE DETAILS"; ObjectID = "sSV-UX-y28"; */
+"sSV-UX-y28.text" = "VEHICLE DETAILS";
+
+/* Class = "UILabel"; text = "VEHICLE TYPE"; ObjectID = "tQa-tI-MIA"; */
+"tQa-tI-MIA.text" = "VEHICLE TYPE";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "vV6-QT-bEK"; */
+"vV6-QT-bEK.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "SEARCH LOCATION"; ObjectID = "vqY-5b-yJc"; */
+"vqY-5b-yJc.text" = "SEARCH LOCATION";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "wTq-ZD-gJS"; */
+"wTq-ZD-gJS.normalTitle" = "Continue";
