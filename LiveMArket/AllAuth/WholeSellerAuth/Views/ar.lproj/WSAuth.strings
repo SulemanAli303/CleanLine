@@ -1,0 +1,69 @@
+
+/* Class = "UITextField"; placeholder = "IBAN Code"; ObjectID = "0mq-bh-SNv"; */
+"0mq-bh-SNv.placeholder" = "IBAN Code";
+
+/* Class = "UILabel"; text = "CREATE AN ACCOUNT"; ObjectID = "1jX-iE-W5a"; */
+"1jX-iE-W5a.text" = "CREATE AN ACCOUNT";
+
+/* Class = "UITextField"; placeholder = "EMAIL ADDRESS"; ObjectID = "2IX-Yx-AI1"; */
+"2IX-Yx-AI1.placeholder" = "EMAIL ADDRESS";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "3C2-e6-kHV"; */
+"3C2-e6-kHV.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "COMMERCIAL REGISTRATION DETAILS"; ObjectID = "8kF-ZO-Q8x"; */
+"8kF-ZO-Q8x.text" = "COMMERCIAL REGISTRATION DETAILS";
+
+/* Class = "UILabel"; text = "BANK ACCOUNT DETAILS"; ObjectID = "ADE-Di-RC8"; */
+"ADE-Di-RC8.text" = "BANK ACCOUNT DETAILS";
+
+/* Class = "UITextField"; placeholder = "CONFIRM PASSWORD"; ObjectID = "Amf-6g-Sww"; */
+"Amf-6g-Sww.placeholder" = "CONFIRM PASSWORD";
+
+/* Class = "UITextField"; placeholder = "Upload associated License"; ObjectID = "Ijq-cy-xPx"; */
+"Ijq-cy-xPx.placeholder" = "Upload associated License";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "KqF-NA-jVT"; */
+"KqF-NA-jVT.placeholder" = "PASSWORD";
+
+/* Class = "UILabel"; text = "CREATE AN ACCOUNT"; ObjectID = "LiC-K0-IuE"; */
+"LiC-K0-IuE.text" = "CREATE AN ACCOUNT";
+
+/* Class = "UITextField"; placeholder = "MOBILE NUMBER"; ObjectID = "QOo-it-waZ"; */
+"QOo-it-waZ.placeholder" = "MOBILE NUMBER";
+
+/* Class = "UITextField"; placeholder = "UPLOAD COMMERCIAL LISENCE"; ObjectID = "YyK-kn-DMi"; */
+"YyK-kn-DMi.placeholder" = "UPLOAD COMMERCIAL LISENCE";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "ZPJ-Xg-KC4"; */
+"ZPJ-Xg-KC4.normalTitle" = "Continue";
+
+/* Class = "UITextField"; placeholder = "COMMERCIAL REGISTRATION NO"; ObjectID = "aKw-Ue-cuG"; */
+"aKw-Ue-cuG.placeholder" = "COMMERCIAL REGISTRATION NO";
+
+/* Class = "UITextField"; placeholder = "STORE NAME"; ObjectID = "aRc-lY-rsT"; */
+"aRc-lY-rsT.placeholder" = "STORE NAME";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "ebz-Zf-xsG"; */
+"ebz-Zf-xsG.normalTitle" = "BACK";
+
+/* Class = "UILabel"; text = "FILL YOUR BASIC INFO"; ObjectID = "fbt-b0-uo7"; */
+"fbt-b0-uo7.text" = "FILL YOUR BASIC INFO";
+
+/* Class = "UILabel"; text = "+971"; ObjectID = "jlE-KO-dBh"; */
+"jlE-KO-dBh.text" = "+971";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "ndw-sk-TAE"; */
+"ndw-sk-TAE.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "FILL YOUR BASIC INFO"; ObjectID = "pon-iw-ehC"; */
+"pon-iw-ehC.text" = "FILL YOUR BASIC INFO";
+
+/* Class = "UITextField"; placeholder = "Bank name"; ObjectID = "rKP-Xu-QQr"; */
+"rKP-Xu-QQr.placeholder" = "Bank name";
+
+/* Class = "UITextField"; placeholder = "REFERRAL CODE"; ObjectID = "rPF-YE-uc7"; */
+"rPF-YE-uc7.placeholder" = "REFERRAL CODE";
+
+/* Class = "UITextField"; placeholder = "Account No"; ObjectID = "zJk-Hg-xVW"; */
+"zJk-Hg-xVW.placeholder" = "Account No";
