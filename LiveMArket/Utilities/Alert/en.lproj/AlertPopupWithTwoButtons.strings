@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Our customer service person will contact you for taking measurements"; ObjectID = "01V-kC-hjC"; */
+"01V-kC-hjC.text" = "Our customer service person will contact you for taking measurements";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "0s3-sC-Goh"; */
+"0s3-sC-Goh.normalTitle" = "CANCEL";
+
+/* Class = "UIButton"; normalTitle = "DISMISS"; ObjectID = "5F7-8L-BUW"; */
+"5F7-8L-BUW.normalTitle" = "DISMISS";
+
+/* Class = "UIButton"; normalTitle = "YES, CANCEL"; ObjectID = "7A0-yb-RAx"; */
+"7A0-yb-RAx.normalTitle" = "YES, CANCEL";
+
+/* Class = "UILabel"; text = "Our customer service person will contact you for taking measurements"; ObjectID = "EHU-5J-jSL"; */
+"EHU-5J-jSL.text" = "Our customer service person will contact you for taking measurements";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "Zdl-Yd-0GH"; */
+"Zdl-Yd-0GH.normalTitle" = "OK";
