@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "SELECT ACTIVITY TYPE"; ObjectID = "1ou-DV-c4z"; */
+"1ou-DV-c4z.text" = "SELECT ACTIVITY TYPE";
+
+/* Class = "UILabel"; text = "REQUEST A DELEGATE"; ObjectID = "Dgc-Wg-XtZ"; */
+"Dgc-Wg-XtZ.text" = "REQUEST A DELEGATE";
+
+/* Class = "UILabel"; text = "RECEIVING OPTIONS"; ObjectID = "Eu6-ZN-0pa"; */
+"Eu6-ZN-0pa.text" = "RECEIVING OPTIONS";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "LSB-Wt-LL9"; */
+"LSB-Wt-LL9.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Contniue"; ObjectID = "Mfe-BG-S26"; */
+"Mfe-BG-S26.normalTitle" = "Contniue";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "One-Ms-UEF"; */
+"One-Ms-UEF.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "TyK-wW-bQW"; */
+"TyK-wW-bQW.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "REQUEST A DELEGATE"; ObjectID = "Utm-S1-kf4"; */
+"Utm-S1-kf4.text" = "REQUEST A DELEGATE";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Ylu-v8-Gaj"; */
+"Ylu-v8-Gaj.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "sCt-Zj-Kg4"; */
+"sCt-Zj-Kg4.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "t36-2T-Tlv"; */
+"t36-2T-Tlv.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "SELECT BUSINESS TYPE"; ObjectID = "z4Y-vi-go9"; */
+"z4Y-vi-go9.text" = "SELECT BUSINESS TYPE";
