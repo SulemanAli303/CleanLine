@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="EditDriverProfileProgressView" customModule="Live_Market" customModuleProvider="target">
+            <connections>
+                <outlet property="accountView" destination="4X3-kP-voY" id="XQY-HT-E1m"/>
+                <outlet property="bankDetailsIcon" destination="tTH-g0-ALn" id="00f-gx-hai"/>
+                <outlet property="bankDetailsSeparator" destination="gtl-Ze-vxS" id="f3I-UH-Wo4"/>
+                <outlet property="bankDetailsView" destination="0BY-e2-XLj" id="i5T-ty-syy"/>
+                <outlet property="createAccntSeparator" destination="8MF-T5-8cS" id="7wJ-Dp-vJm"/>
+                <outlet property="vehicleIcon" destination="Td1-Yb-0Tg" id="Hv8-cS-typ"/>
+                <outlet property="vehicleView" destination="wfS-mk-4cr" id="9FE-jg-UeR"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="539" height="44"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="scaleToFill" alignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="LcB-3o-s7c">
+                    <rect key="frame" x="20" y="4" width="499" height="36"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="4X3-kP-voY">
+                            <rect key="frame" x="0.0" y="0.0" width="36" height="36"/>
+                            <subviews>
+                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Info-tab-active" translatesAutoresizingMaskIntoConstraints="NO" id="H0v-ky-Qcs">
+                                    <rect key="frame" x="8" y="8" width="20" height="20"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="20" id="QDb-qY-NwG"/>
+                                        <constraint firstAttribute="height" constant="20" id="VHl-d2-k32"/>
+                                    </constraints>
+                                </imageView>
+                            </subviews>
+                            <color key="backgroundColor" name="DarkOrange"/>
+                            <constraints>
+                                <constraint firstItem="H0v-ky-Qcs" firstAttribute="centerX" secondItem="4X3-kP-voY" secondAttribute="centerX" id="78P-qc-9gz"/>
+                                <constraint firstAttribute="width" constant="36" id="RN4-fu-Eu5"/>
+                                <constraint firstItem="H0v-ky-Qcs" firstAttribute="centerY" secondItem="4X3-kP-voY" secondAttribute="centerY" id="vpa-iz-Nbl"/>
+                                <constraint firstAttribute="height" constant="36" id="w1I-Yv-fmW"/>
+                            </constraints>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="number" keyPath="ibcornerRadius">
+                                    <real key="value" value="6"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                        </view>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="8MF-T5-8cS">
+                            <rect key="frame" x="35.999999999999986" y="17.666666666666668" width="195.66666666666663" height="1"/>
+                            <color key="backgroundColor" red="0.13852727409999999" green="0.13852727409999999" blue="0.13852727409999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="1" id="Rph-Mz-LCS"/>
+                            </constraints>
+                        </imageView>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="0BY-e2-XLj">
+                            <rect key="frame" x="231.66666666666666" y="0.0" width="35.999999999999972" height="36"/>
+                            <subviews>
+                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="documents-tab" translatesAutoresizingMaskIntoConstraints="NO" id="tTH-g0-ALn">
+                                    <rect key="frame" x="8.0000000000000284" y="8" width="20" height="20"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="20" id="XZT-Nw-6JY"/>
+                                        <constraint firstAttribute="height" constant="20" id="gxy-q4-mde"/>
+                                    </constraints>
+                                </imageView>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstItem="tTH-g0-ALn" firstAttribute="centerY" secondItem="0BY-e2-XLj" secondAttribute="centerY" id="SUV-pI-eSz"/>
+                                <constraint firstAttribute="height" constant="36" id="je5-uE-Qfy"/>
+                                <constraint firstItem="tTH-g0-ALn" firstAttribute="centerX" secondItem="0BY-e2-XLj" secondAttribute="centerX" id="oVo-u0-462"/>
+                                <constraint firstAttribute="width" constant="36" id="ujr-ah-Cc4"/>
+                            </constraints>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="number" keyPath="ibcornerRadius">
+                                    <real key="value" value="6"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                        </view>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="gtl-Ze-vxS">
+                            <rect key="frame" x="267.66666666666669" y="17.666666666666668" width="195.33333333333331" height="1"/>
+                            <color key="backgroundColor" red="0.13852727409999999" green="0.13852727409999999" blue="0.13852727409999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="1" id="KNm-TG-gMt"/>
+                            </constraints>
+                        </imageView>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="wfS-mk-4cr">
+                            <rect key="frame" x="463" y="0.0" width="36" height="36"/>
+                            <subviews>
+                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="vehicle-tab" translatesAutoresizingMaskIntoConstraints="NO" id="Td1-Yb-0Tg">
+                                    <rect key="frame" x="8" y="8" width="20" height="20"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="20" id="YaB-hi-aJ2"/>
+                                        <constraint firstAttribute="height" constant="20" id="cLZ-I0-oUy"/>
+                                    </constraints>
+                                </imageView>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstItem="Td1-Yb-0Tg" firstAttribute="centerY" secondItem="wfS-mk-4cr" secondAttribute="centerY" id="0GQ-rx-J9t"/>
+                                <constraint firstItem="Td1-Yb-0Tg" firstAttribute="centerX" secondItem="wfS-mk-4cr" secondAttribute="centerX" id="RkD-DB-9xv"/>
+                                <constraint firstAttribute="height" constant="36" id="Wgl-Nf-szC"/>
+                                <constraint firstAttribute="width" constant="36" id="XMm-Oc-qEq"/>
+                            </constraints>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="number" keyPath="ibcornerRadius">
+                                    <real key="value" value="6"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="0BY-e2-XLj" firstAttribute="centerX" secondItem="LcB-3o-s7c" secondAttribute="centerX" id="qWV-9l-Rdn"/>
+                    </constraints>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="LcB-3o-s7c" secondAttribute="trailing" constant="20" id="1mM-LD-4jQ"/>
+                <constraint firstItem="LcB-3o-s7c" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="3gA-Pi-KHp"/>
+                <constraint firstItem="LcB-3o-s7c" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="Bwi-gn-2Jm"/>
+                <constraint firstItem="LcB-3o-s7c" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="20" id="urz-ge-mUD"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="95.419847328244273" y="-285.91549295774649"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Info-tab-active" width="18.666666030883789" height="18.666666030883789"/>
+        <image name="documents-tab" width="15" height="18.666666030883789"/>
+        <image name="vehicle-tab" width="22.333333969116211" height="15.333333015441895"/>
+        <namedColor name="DarkOrange">
+            <color red="0.90980386734008789" green="0.5058823823928833" blue="0.10196079313755035" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>
