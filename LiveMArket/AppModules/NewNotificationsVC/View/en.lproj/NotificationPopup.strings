@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "Delegate Request"; ObjectID = "76k-6a-T7B"; */
+"76k-6a-T7B.text" = "Delegate Request";
+
+/* Class = "UILabel"; text = "Scheduled Date"; ObjectID = "Brb-W8-2J4"; */
+"Brb-W8-2J4.text" = "Scheduled Date";
+
+/* Class = "UILabel"; text = "Min"; ObjectID = "Dho-vh-1Jx"; */
+"Dho-vh-1Jx.text" = "Min";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "EuV-AJ-y8N"; */
+"EuV-AJ-y8N.text" = "-";
+
+/* Class = "UILabel"; text = "Delivery Address"; ObjectID = "FxY-vz-qq8"; */
+"FxY-vz-qq8.text" = "Delivery Address";
+
+/* Class = "UILabel"; text = "Olivia Stanford "; ObjectID = "G9x-q0-DCV"; */
+"G9x-q0-DCV.text" = "Olivia Stanford ";
+
+/* Class = "UILabel"; text = "Package Details"; ObjectID = "IoY-YX-2iz"; */
+"IoY-YX-2iz.text" = "Package Details";
+
+/* Class = "UILabel"; text = "23 Nov 2022 - 25 Nov 2022"; ObjectID = "NDe-W5-yre"; */
+"NDe-W5-yre.text" = "23 Nov 2022 - 25 Nov 2022";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "PoA-Yq-QL7"; */
+"PoA-Yq-QL7.text" = "10";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "Roe-7T-EMH"; */
+"Roe-7T-EMH.normalTitle" = "Accept";
+
+/* Class = "UIButton"; normalTitle = "View details"; ObjectID = "Uab-m6-fAw"; */
+"Uab-m6-fAw.normalTitle" = "View details";
+
+/* Class = "UILabel"; text = "30:00"; ObjectID = "Wal-BH-8h0"; */
+"Wal-BH-8h0.text" = "30:00";
+
+/* Class = "UILabel"; text = "Pickup Address"; ObjectID = "Zb6-Gt-kea"; */
+"Zb6-Gt-kea.text" = "Pickup Address";
+
+/* Class = "UILabel"; text = "#LM10210244550"; ObjectID = "a2C-7G-50I"; */
+"a2C-7G-50I.text" = "#LM10210244550";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "cIa-QL-Wo0"; */
+"cIa-QL-Wo0.normalTitle" = "Reject";
+
+/* Class = "UILabel"; text = "AIRPORT ROAD - CASABLANCA ST - DUBAI - UNITED ARAB EMIRATES"; ObjectID = "fqm-2e-B1f"; */
+"fqm-2e-B1f.text" = "AIRPORT ROAD - CASABLANCA ST - DUBAI - UNITED ARAB EMIRATES";
+
+/* Class = "UILabel"; text = "Jeddaha Wakan Villas - 2"; ObjectID = "q0D-Zh-63Y"; */
+"q0D-Zh-63Y.text" = "Jeddaha Wakan Villas - 2";
+
+/* Class = "UILabel"; text = "Km"; ObjectID = "szn-xk-Rfu"; */
+"szn-xk-Rfu.text" = "Km";
+
+/* Class = "UILabel"; text = "AIRPORT ROAD - CASABLANCA ST - DUBAI - UNITED ARAB EMIRATES"; ObjectID = "tra-6e-8Ce"; */
+"tra-6e-8Ce.text" = "AIRPORT ROAD - CASABLANCA ST - DUBAI - UNITED ARAB EMIRATES";
