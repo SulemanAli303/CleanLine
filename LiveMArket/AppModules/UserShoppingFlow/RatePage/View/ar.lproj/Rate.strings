@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Daniel Alexendra"; ObjectID = "0Io-KE-vNC"; */
+"0Io-KE-vNC.text" = "Daniel Alexendra";
+
+/* Class = "UILabel"; text = "DELIVERED DETAILS"; ObjectID = "5Q4-MP-6i6"; */
+"5Q4-MP-6i6.text" = "DELIVERED DETAILS";
+
+/* Class = "UILabel"; text = "08 Oct 2022 05:00PM"; ObjectID = "Az0-gy-DkR"; */
+"Az0-gy-DkR.text" = "08 Oct 2022 05:00PM";
+
+/* Class = "UILabel"; text = "WRITE A REVIEW"; ObjectID = "C7p-jx-S8n"; */
+"C7p-jx-S8n.text" = "WRITE A REVIEW";
+
+/* Class = "UIButton"; normalTitle = "WILL DO IT LATER"; ObjectID = "Hx8-G5-5r4"; */
+"Hx8-G5-5r4.normalTitle" = "WILL DO IT LATER";
+
+/* Class = "UILabel"; text = "HOW WAS YOUR EXPERIENCE?"; ObjectID = "JbJ-Nz-Eor"; */
+"JbJ-Nz-Eor.text" = "HOW WAS YOUR EXPERIENCE?";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "clo-km-ieT"; */
+"clo-km-ieT.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Delivered"; ObjectID = "e1Y-A8-Qm4"; */
+"e1Y-A8-Qm4.text" = "Delivered";
