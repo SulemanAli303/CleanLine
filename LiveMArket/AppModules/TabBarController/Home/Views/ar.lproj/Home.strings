@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "0MB-jg-Ndx"; */
+"0MB-jg-Ndx.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "You can report this video to live market, if you think that is against our community guidlines.We won't notify the account that you submitted this report."; ObjectID = "5B5-N9-sS0"; */
+"5B5-N9-sS0.text" = "You can report this video to live market, if you think that is against our community guidlines.We won't notify the account that you submitted this report.";
+
+/* Class = "UIButton"; configuration.title = "CANCEL"; ObjectID = "8nT-cl-aWQ"; */
+"8nT-cl-aWQ.configuration.title" = "CANCEL";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8nT-cl-aWQ"; */
+"8nT-cl-aWQ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "REPORT THIS POST"; ObjectID = "CxG-GZ-SOK"; */
+"CxG-GZ-SOK.text" = "REPORT THIS POST";
+
+/* Class = "UITextView"; text = "TYPE YOUR COMMENT HERE..."; ObjectID = "Wxj-dC-sgQ"; */
+"Wxj-dC-sgQ.text" = "TYPE YOUR COMMENT HERE...";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "hfu-Dc-hWI"; */
+"hfu-Dc-hWI.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "REPORT THIS POST REPORT THIS POST  REPORT THIS POST "; ObjectID = "wWJ-0w-5MF"; */
+"wWJ-0w-5MF.text" = "REPORT THIS POST REPORT THIS POST  REPORT THIS POST ";
+
+/* Class = "UILabel"; text = "Enter Your comments below"; ObjectID = "z9K-GK-IOV"; */
+"z9K-GK-IOV.text" = "Enter Your comments below";
