@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "24y-cU-42i"; */
+"24y-cU-42i.normalTitle" = "Accept";
+
+/* Class = "UILabel"; text = "Stufeed Zucchini & Vinegar"; ObjectID = "2xY-Kz-upk"; */
+"2xY-Kz-upk.text" = "Stufeed Zucchini & Vinegar";
+
+/* Class = "UILabel"; text = "Waiting for Confirmation"; ObjectID = "BmZ-Y0-seV"; */
+"BmZ-Y0-seV.text" = "Waiting for Confirmation";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "En3-59-yc0"; */
+"En3-59-yc0.normalTitle" = "Reject";
+
+/* Class = "UILabel"; text = "04 Oct 2022 05:00PM"; ObjectID = "NHU-de-JiF"; */
+"NHU-de-JiF.text" = "04 Oct 2022 05:00PM";
+
+/* Class = "UILabel"; text = "#LM-501248596038"; ObjectID = "Tau-0i-n1i"; */
+"Tau-0i-n1i.text" = "#LM-501248596038";
+
+/* Class = "UILabel"; text = "3 Products"; ObjectID = "tzw-OX-vqH"; */
+"tzw-OX-vqH.text" = "3 Products";
+
+/* Class = "UILabel"; text = "Accept This Order ?"; ObjectID = "uNS-C9-Huq"; */
+"uNS-C9-Huq.text" = "Accept This Order ?";
+
+/* Class = "UILabel"; text = "Waiting for Confirmation"; ObjectID = "umb-k1-arB"; */
+"umb-k1-arB.text" = "Waiting for Confirmation";
