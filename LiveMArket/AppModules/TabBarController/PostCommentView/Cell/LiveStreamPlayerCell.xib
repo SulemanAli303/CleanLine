@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22684"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Roboto-Medium.ttf">
+            <string>Roboto-Medium</string>
+        </array>
+        <array key="Roboto-Regular.ttf">
+            <string>Roboto-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="LiveStreamPlayerCell" id="gTV-IL-0wX" customClass="LiveStreamPlayerCell" customModule="Live_Market" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="653" height="1193"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="653" height="1193"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="8mQ-R6-pKW">
+                        <rect key="frame" x="0.0" y="0.0" width="653" height="1193"/>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </imageView>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="tNh-n8-Gri">
+                        <rect key="frame" x="0.0" y="0.0" width="653" height="1193"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </view>
+                    <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Gqt-td-559">
+                        <rect key="frame" x="0.0" y="0.0" width="653" height="1193"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Live Ended !!!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iEc-n7-pcR">
+                                <rect key="frame" x="0.0" y="0.0" width="653" height="1193"/>
+                                <fontDescription key="fontDescription" name="Roboto-Medium" family="Roboto" pointSize="18"/>
+                                <color key="textColor" systemColor="systemRedColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="iEc-n7-pcR" secondAttribute="trailing" id="FA5-p0-12I"/>
+                            <constraint firstItem="iEc-n7-pcR" firstAttribute="leading" secondItem="Gqt-td-559" secondAttribute="leading" id="Naj-lL-ing"/>
+                            <constraint firstItem="iEc-n7-pcR" firstAttribute="top" secondItem="Gqt-td-559" secondAttribute="top" id="Ra2-hQ-YHA"/>
+                            <constraint firstAttribute="bottom" secondItem="iEc-n7-pcR" secondAttribute="bottom" id="jPU-fA-yn7"/>
+                        </constraints>
+                    </view>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Ui6-Zo-qeZ">
+                        <rect key="frame" x="20" y="1104" width="613" height="59"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="fYL-oF-oQC">
+                                <rect key="frame" x="10" y="4" width="593" height="50"/>
+                                <subviews>
+                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="cyw-Qi-T8a" customClass="GrowingTextView" customModule="GrowingTextView">
+                                        <rect key="frame" x="0.0" y="0.0" width="538" height="50"/>
+                                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <fontDescription key="fontDescription" name="Roboto-Regular" family="Roboto" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="string" keyPath="placeholder" value="Comment"/>
+                                            <userDefinedRuntimeAttribute type="color" keyPath="placeholderColor">
+                                                <color key="value" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                    </textView>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="K5t-wp-AM1">
+                                        <rect key="frame" x="543" y="0.0" width="50" height="50"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="50" id="qjv-XE-pUN"/>
+                                        </constraints>
+                                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                        <state key="normal" image="noun-send-887299"/>
+                                        <connections>
+                                            <action selector="addCommentAction:" destination="gTV-IL-0wX" eventType="touchUpInside" id="sHm-JA-R4N"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.50451743199999999" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="fYL-oF-oQC" firstAttribute="top" secondItem="Ui6-Zo-qeZ" secondAttribute="top" constant="4" id="9dc-if-lpB"/>
+                            <constraint firstAttribute="trailing" secondItem="fYL-oF-oQC" secondAttribute="trailing" constant="10" id="gR6-cc-qZM"/>
+                            <constraint firstAttribute="bottom" secondItem="fYL-oF-oQC" secondAttribute="bottom" constant="5" id="pFr-MI-6QQ"/>
+                            <constraint firstItem="fYL-oF-oQC" firstAttribute="leading" secondItem="Ui6-Zo-qeZ" secondAttribute="leading" constant="10" id="wSI-ZL-cmp"/>
+                            <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="40" id="zlm-iq-VyM"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="ibcornerRadius">
+                                <real key="value" value="20"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                    <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="NyF-Iu-sck">
+                        <rect key="frame" x="20" y="784" width="613" height="300"/>
+                        <subviews>
+                            <tableView clearsContextBeforeDrawing="NO" contentMode="scaleToFill" alwaysBounceVertical="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="prototypes" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="F2L-e8-DZJ">
+                                <rect key="frame" x="0.0" y="60" width="613" height="240"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </tableView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="300" id="UwX-DW-1MF"/>
+                            <constraint firstAttribute="bottom" secondItem="F2L-e8-DZJ" secondAttribute="bottom" id="qol-Mm-rhI"/>
+                            <constraint firstItem="F2L-e8-DZJ" firstAttribute="leading" secondItem="NyF-Iu-sck" secondAttribute="leading" id="wEa-5n-ORW"/>
+                            <constraint firstAttribute="trailing" secondItem="F2L-e8-DZJ" secondAttribute="trailing" id="xOU-ho-aZv"/>
+                            <constraint firstItem="F2L-e8-DZJ" firstAttribute="top" secondItem="NyF-Iu-sck" secondAttribute="top" constant="60" id="ynm-Js-D0r"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="8mQ-R6-pKW" secondAttribute="trailing" id="0SO-bn-Hka"/>
+                <constraint firstItem="Ui6-Zo-qeZ" firstAttribute="top" secondItem="NyF-Iu-sck" secondAttribute="bottom" constant="20" id="61j-z9-RaZ"/>
+                <constraint firstItem="8mQ-R6-pKW" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="6xa-9H-aSB"/>
+                <constraint firstAttribute="trailing" secondItem="Ui6-Zo-qeZ" secondAttribute="trailing" constant="20" id="AlX-OC-ur2"/>
+                <constraint firstItem="tNh-n8-Gri" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="AqA-91-wjK"/>
+                <constraint firstItem="tNh-n8-Gri" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="DJv-Hc-UNo"/>
+                <constraint firstAttribute="bottom" secondItem="tNh-n8-Gri" secondAttribute="bottom" id="FLA-7n-pSw"/>
+                <constraint firstItem="Gqt-td-559" firstAttribute="leading" secondItem="tNh-n8-Gri" secondAttribute="leading" id="HYw-FX-f7j"/>
+                <constraint firstItem="Gqt-td-559" firstAttribute="trailing" secondItem="tNh-n8-Gri" secondAttribute="trailing" id="KHt-Zz-dXe"/>
+                <constraint firstAttribute="trailing" secondItem="tNh-n8-Gri" secondAttribute="trailing" id="RPa-Id-c5A"/>
+                <constraint firstAttribute="trailing" secondItem="NyF-Iu-sck" secondAttribute="trailing" constant="20" id="TIR-G8-mHc"/>
+                <constraint firstItem="Ui6-Zo-qeZ" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="20" id="UJc-wq-p8e"/>
+                <constraint firstItem="Gqt-td-559" firstAttribute="bottom" secondItem="tNh-n8-Gri" secondAttribute="bottom" id="YaI-Mm-y6y"/>
+                <constraint firstAttribute="bottom" secondItem="8mQ-R6-pKW" secondAttribute="bottom" id="epo-K8-abZ"/>
+                <constraint firstItem="NyF-Iu-sck" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="20" id="lFr-2W-So8"/>
+                <constraint firstItem="Gqt-td-559" firstAttribute="top" secondItem="tNh-n8-Gri" secondAttribute="top" id="nra-UP-Ww4"/>
+                <constraint firstItem="8mQ-R6-pKW" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="v09-IW-LeF"/>
+                <constraint firstAttribute="bottom" secondItem="Ui6-Zo-qeZ" secondAttribute="bottom" constant="30" id="xIQ-SV-37e"/>
+            </constraints>
+            <size key="customSize" width="653" height="1193"/>
+            <connections>
+                <outlet property="addCommentBtn" destination="K5t-wp-AM1" id="fh7-WM-0vt"/>
+                <outlet property="addCommentView" destination="Ui6-Zo-qeZ" id="PGm-Gw-5g3"/>
+                <outlet property="commentListView" destination="NyF-Iu-sck" id="ZBu-qy-ULO"/>
+                <outlet property="commentTxt" destination="cyw-Qi-T8a" id="1Cs-u5-4vK"/>
+                <outlet property="endedLiveView" destination="Gqt-td-559" id="A44-gJ-FTw"/>
+                <outlet property="playerContainerView" destination="tNh-n8-Gri" id="3LE-hP-WHj"/>
+                <outlet property="tableView" destination="F2L-e8-DZJ" id="Q31-Nl-k8U"/>
+                <outlet property="thumbnailImgVw" destination="8mQ-R6-pKW" id="XGW-0Z-YWf"/>
+            </connections>
+            <point key="canvasLocation" x="-440.45801526717554" y="155.28169014084509"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="noun-send-887299" width="17.666666030883789" height="17.333333969116211"/>
+        <systemColor name="systemRedColor">
+            <color red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>
