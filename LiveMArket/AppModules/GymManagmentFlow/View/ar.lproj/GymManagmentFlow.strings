@@ -1,0 +1,207 @@
+
+/* Class = "UILabel"; text = "Bill Details"; ObjectID = "1Jf-rP-kYP"; */
+"1Jf-rP-kYP.text" = "Bill Details";
+
+/* Class = "UILabel"; text = " 4/5"; ObjectID = "1Ke-HU-Iaa"; */
+"1Ke-HU-Iaa.text" = " 4/5";
+
+/* Class = "UIButton"; normalTitle = "Proceed"; ObjectID = "2HY-7z-KoD"; */
+"2HY-7z-KoD.normalTitle" = "Proceed";
+
+/* Class = "UITextField"; text = "name@axample.com"; ObjectID = "3Ee-aO-nEQ"; */
+"3Ee-aO-nEQ.text" = "name@axample.com";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "3ov-wE-tmF"; */
+"3ov-wE-tmF.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Accept This Order ?"; ObjectID = "6Kb-Bo-T6n"; */
+"6Kb-Bo-T6n.text" = "Accept This Order ?";
+
+/* Class = "UILabel"; text = "04 Oct 2022 05:00PM"; ObjectID = "8I1-m4-MY1"; */
+"8I1-m4-MY1.text" = "04 Oct 2022 05:00PM";
+
+/* Class = "UILabel"; text = "Waiting for Confirmation"; ObjectID = "A7A-Ex-xlS"; */
+"A7A-Ex-xlS.text" = "Waiting for Confirmation";
+
+/* Class = "UILabel"; text = "PAY"; ObjectID = "AZ6-Bx-WOk"; */
+"AZ6-Bx-WOk.text" = "PAY";
+
+/* Class = "UILabel"; text = "Scheduled Date"; ObjectID = "BQc-lX-vig"; */
+"BQc-lX-vig.text" = "Scheduled Date";
+
+/* Class = "UILabel"; text = "DELIVERED DETAILS"; ObjectID = "Byc-k4-OGY"; */
+"Byc-k4-OGY.text" = "DELIVERED DETAILS";
+
+/* Class = "UILabel"; text = "Booking Details"; ObjectID = "Dh5-R7-1XG"; */
+"Dh5-R7-1XG.text" = "Booking Details";
+
+/* Class = "UITextField"; text = "30"; ObjectID = "EHV-Bq-hvi"; */
+"EHV-Bq-hvi.text" = "30";
+
+/* Class = "UILabel"; text = "SAR 300.00"; ObjectID = "EQZ-8J-dUm"; */
+"EQZ-8J-dUm.text" = "SAR 300.00";
+
+/* Class = "UILabel"; text = "SAR 5.00"; ObjectID = "FMT-qr-nNz"; */
+"FMT-qr-nNz.text" = "SAR 5.00";
+
+/* Class = "UITextField"; text = "Abhijith"; ObjectID = "GSu-dN-VCj"; */
+"GSu-dN-VCj.text" = "Abhijith";
+
+/* Class = "UILabel"; text = "#GLD-80124"; ObjectID = "HY9-j6-Q43"; */
+"HY9-j6-Q43.text" = "#GLD-80124";
+
+/* Class = "UILabel"; text = "1300.00"; ObjectID = "Hly-7R-qIB"; */
+"Hly-7R-qIB.text" = "1300.00";
+
+/* Class = "UILabel"; text = "Subscription no:"; ObjectID = "IQd-OP-cE1"; */
+"IQd-OP-cE1.text" = "Subscription no:";
+
+/* Class = "UILabel"; text = "0 Star Rattings"; ObjectID = "J88-Z6-RgT"; */
+"J88-Z6-RgT.text" = "0 Star Rattings";
+
+/* Class = "UILabel"; text = "The Galteria Abu Dahbi UAE"; ObjectID = "L36-e3-bR2"; */
+"L36-e3-bR2.text" = "The Galteria Abu Dahbi UAE";
+
+/* Class = "UILabel"; text = "Payment Type"; ObjectID = "L7h-rh-Yw1"; */
+"L7h-rh-Yw1.text" = "Payment Type";
+
+/* Class = "UILabel"; text = "New Bookings"; ObjectID = "MYW-0r-f3K"; */
+"MYW-0r-f3K.text" = "New Bookings";
+
+/* Class = "UILabel"; text = "Daniel Alexendra"; ObjectID = "NDs-lG-9oe"; */
+"NDs-lG-9oe.text" = "Daniel Alexendra";
+
+/* Class = "UILabel"; text = "Gold's Gym"; ObjectID = "NFn-2Y-jQD"; */
+"NFn-2Y-jQD.text" = "Gold's Gym";
+
+/* Class = "UILabel"; text = "SAR 956"; ObjectID = "Nqz-Fm-bYE"; */
+"Nqz-Fm-bYE.text" = "SAR 956";
+
+/* Class = "UILabel"; text = "Email Address"; ObjectID = "P0C-4T-F38"; */
+"P0C-4T-F38.text" = "Email Address";
+
+/* Class = "UILabel"; text = "Minutes"; ObjectID = "PMZ-er-DXN"; */
+"PMZ-er-DXN.text" = "Minutes";
+
+/* Class = "UILabel"; text = "Services Charge"; ObjectID = "QR0-yI-BPD"; */
+"QR0-yI-BPD.text" = "Services Charge";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "Qak-wa-B06"; */
+"Qak-wa-B06.text" = "5";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "RVt-I4-Tsh"; */
+"RVt-I4-Tsh.text" = "20";
+
+/* Class = "UILabel"; text = "Days"; ObjectID = "RtX-NA-IZK"; */
+"RtX-NA-IZK.text" = "Days";
+
+/* Class = "UIButton"; normalTitle = "Booking Confirmed"; ObjectID = "SwR-65-J08"; */
+"SwR-65-J08.normalTitle" = "Booking Confirmed";
+
+/* Class = "UILabel"; text = "08 Oct 2022 05:00PM"; ObjectID = "SyH-zt-yDw"; */
+"SyH-zt-yDw.text" = "08 Oct 2022 05:00PM";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "TbG-ER-eIL"; */
+"TbG-ER-eIL.text" = "Mobile Number";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "U3u-mR-wEr"; */
+"U3u-mR-wEr.text" = "About";
+
+/* Class = "UILabel"; text = "18"; ObjectID = "UnC-1k-MPX"; */
+"UnC-1k-MPX.text" = "18";
+
+/* Class = "UILabel"; text = "#LM-501248596038"; ObjectID = "W9G-hG-WlU"; */
+"W9G-hG-WlU.text" = "#LM-501248596038";
+
+/* Class = "UILabel"; text = "23 Nov 2022"; ObjectID = "XSJ-rh-x1d"; */
+"XSJ-rh-x1d.text" = "23 Nov 2022";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "ZLX-K7-rPD"; */
+"ZLX-K7-rPD.normalTitle" = "Reject";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "a0O-Lc-hDi"; */
+"a0O-Lc-hDi.normalTitle" = "Reject";
+
+/* Class = "UILabel"; text = "Accept the Subscription"; ObjectID = "cTH-PO-qcb"; */
+"cTH-PO-qcb.text" = "Accept the Subscription";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "ctW-AO-n3P"; */
+"ctW-AO-n3P.text" = "20";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "eOT-ip-Shw"; */
+"eOT-ip-Shw.text" = "Age";
+
+/* Class = "UILabel"; text = "SAR 5.00"; ObjectID = "fpz-Ui-KOE"; */
+"fpz-Ui-KOE.text" = "SAR 5.00";
+
+/* Class = "UILabel"; text = "50"; ObjectID = "hTE-lZ-F8D"; */
+"hTE-lZ-F8D.text" = "50";
+
+/* Class = "UILabel"; text = "Olivia Stanford"; ObjectID = "iDe-qe-sen"; */
+"iDe-qe-sen.text" = "Olivia Stanford";
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "kWf-4L-VuB"; */
+"kWf-4L-VuB.text" = "Hours";
+
+/* Class = "UILabel"; text = "Seconds"; ObjectID = "lZK-tC-cTG"; */
+"lZK-tC-cTG.text" = "Seconds";
+
+/* Class = "UITextField"; text = "Male"; ObjectID = "nvL-Am-LoU"; */
+"nvL-Am-LoU.text" = "Male";
+
+/* Class = "UILabel"; text = "09:00 - 12:00"; ObjectID = "oxt-5N-Dwm"; */
+"oxt-5N-Dwm.text" = "09:00 - 12:00";
+
+/* Class = "UILabel"; text = "Chalets LIST"; ObjectID = "pJl-YI-LEP"; */
+"pJl-YI-LEP.text" = "Chalets LIST";
+
+/* Class = "UITextField"; placeholder = "Enter the subscription no"; ObjectID = "pPT-Dl-fOJ"; */
+"pPT-Dl-fOJ.placeholder" = "Enter the subscription no";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "pTt-iw-lOS"; */
+"pTt-iw-lOS.normalTitle" = "Accept";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "pWJ-Fv-IYB"; */
+"pWJ-Fv-IYB.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pWJ-Fv-IYB"; */
+"pWJ-Fv-IYB.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "q0b-Er-1TN"; */
+"q0b-Er-1TN.text" = "Gender";
+
+/* Class = "UILabel"; text = "Fullname"; ObjectID = "q9i-V8-neg"; */
+"q9i-V8-neg.text" = "Fullname";
+
+/* Class = "UILabel"; text = "SAR"; ObjectID = "qEn-KJ-Dxn"; */
+"qEn-KJ-Dxn.text" = "SAR";
+
+/* Class = "UITextField"; text = "+91 000 0000 00"; ObjectID = "qIy-kz-u6P"; */
+"qIy-kz-u6P.text" = "+91 000 0000 00";
+
+/* Class = "UILabel"; text = "Club Subscription"; ObjectID = "qQ4-ah-bQq"; */
+"qQ4-ah-bQq.text" = "Club Subscription";
+
+/* Class = "UILabel"; text = "Reserve the slot?"; ObjectID = "rYW-zx-EQV"; */
+"rYW-zx-EQV.text" = "Reserve the slot?";
+
+/* Class = "UILabel"; text = "Grand Total"; ObjectID = "t0d-dp-TK2"; */
+"t0d-dp-TK2.text" = "Grand Total";
+
+/* Class = "UILabel"; text = "Subscription for 3 month"; ObjectID = "tfl-dM-1OP"; */
+"tfl-dM-1OP.text" = "Subscription for 3 month";
+
+/* Class = "UILabel"; text = "SAR 5.00"; ObjectID = "tni-mF-Lyl"; */
+"tni-mF-Lyl.text" = "SAR 5.00";
+
+/* Class = "UILabel"; text = "Reserved Bookings"; ObjectID = "upf-3X-vqq"; */
+"upf-3X-vqq.text" = "Reserved Bookings";
+
+/* Class = "UILabel"; text = "Tax Charge"; ObjectID = "yxd-ih-3BO"; */
+"yxd-ih-3BO.text" = "Tax Charge";
+
+/* Class = "UILabel"; text = "Delivered"; ObjectID = "z8A-iH-T7g"; */
+"z8A-iH-T7g.text" = "Delivered";
+
+/* Class = "UILabel"; text = "Sub Total"; ObjectID = "z8K-tT-ADH"; */
+"z8K-tT-ADH.text" = "Sub Total";
