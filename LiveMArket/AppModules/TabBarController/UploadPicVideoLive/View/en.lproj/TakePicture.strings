@@ -1,0 +1,69 @@
+
+/* Class = "UIButton"; normalTitle = "Picture"; ObjectID = "2LS-d8-KtJ"; */
+"2LS-d8-KtJ.normalTitle" = "Picture";
+
+/* Class = "UILabel"; text = "Picture"; ObjectID = "3c3-PR-s8i"; */
+"3c3-PR-s8i.text" = "Picture";
+
+/* Class = "UIButton"; normalTitle = "Live"; ObjectID = "3gj-T5-OSJ"; */
+"3gj-T5-OSJ.normalTitle" = "Live";
+
+/* Class = "UILabel"; text = "Public"; ObjectID = "4Qr-7B-lMe"; */
+"4Qr-7B-lMe.text" = "Public";
+
+/* Class = "UILabel"; text = "Picture"; ObjectID = "5bV-iF-AYp"; */
+"5bV-iF-AYp.text" = "Picture";
+
+/* Class = "UILabel"; text = "Discard Video"; ObjectID = "5mO-mZ-BhS"; */
+"5mO-mZ-BhS.text" = "Discard Video";
+
+/* Class = "UIButton"; normalTitle = "Picture"; ObjectID = "AfA-TH-8LV"; */
+"AfA-TH-8LV.normalTitle" = "Picture";
+
+/* Class = "UILabel"; text = "Live"; ObjectID = "Afa-jC-lLV"; */
+"Afa-jC-lLV.text" = "Live";
+
+/* Class = "UILabel"; text = "0:00"; ObjectID = "Dh4-9u-7gd"; */
+"Dh4-9u-7gd.text" = "0:00";
+
+/* Class = "UILabel"; text = "Video turned off"; ObjectID = "Hkq-gj-tmn"; */
+"Hkq-gj-tmn.text" = "Video turned off";
+
+/* Class = "UIButton"; normalTitle = "Live"; ObjectID = "Jcd-4a-5z2"; */
+"Jcd-4a-5z2.normalTitle" = "Live";
+
+/* Class = "UILabel"; text = "Video"; ObjectID = "SKR-Y1-r5V"; */
+"SKR-Y1-r5V.text" = "Video";
+
+/* Class = "UIButton"; normalTitle = "Video"; ObjectID = "YZ0-3N-xaB"; */
+"YZ0-3N-xaB.normalTitle" = "Video";
+
+/* Class = "UILabel"; text = "0:00"; ObjectID = "ZHg-W9-tqI"; */
+"ZHg-W9-tqI.text" = "0:00";
+
+/* Class = "UILabel"; text = "Video turned off"; ObjectID = "Zjd-Xk-sfP"; */
+"Zjd-Xk-sfP.text" = "Video turned off";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "bcN-3l-Z7f"; */
+"bcN-3l-Z7f.text" = "0";
+
+/* Class = "UILabel"; text = "Live"; ObjectID = "caZ-TK-IO1"; */
+"caZ-TK-IO1.text" = "Live";
+
+/* Class = "UILabel"; text = "Public"; ObjectID = "hbH-A1-f1e"; */
+"hbH-A1-f1e.text" = "Public";
+
+/* Class = "UILabel"; text = "Live Video Ended"; ObjectID = "qKT-RW-TWt"; */
+"qKT-RW-TWt.text" = "Live Video Ended";
+
+/* Class = "UIButton"; normalTitle = "Video"; ObjectID = "qdB-HC-9uq"; */
+"qdB-HC-9uq.normalTitle" = "Video";
+
+/* Class = "UILabel"; text = "Share Post"; ObjectID = "sYV-VF-ggj"; */
+"sYV-VF-ggj.text" = "Share Post";
+
+/* Class = "UILabel"; text = "Video"; ObjectID = "t01-vo-cJx"; */
+"t01-vo-cJx.text" = "Video";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "wnL-CM-PYx"; */
+"wnL-CM-PYx.text" = "0";
