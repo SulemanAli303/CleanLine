@@ -1,0 +1,69 @@
+
+/* Class = "UITextField"; placeholder = "Promo Code"; ObjectID = "2T7-04-PYx"; */
+"2T7-04-PYx.placeholder" = "Promo Code";
+
+/* Class = "UILabel"; text = "Items in cart"; ObjectID = "6m8-HZ-X1Z"; */
+"6m8-HZ-X1Z.text" = "Items in cart";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "9m6-Wo-Tf0"; */
+"9m6-Wo-Tf0.normalTitle" = "Apply";
+
+/* Class = "UILabel"; text = "Grand Total"; ObjectID = "B4C-nw-LW5"; */
+"B4C-nw-LW5.text" = "Grand Total";
+
+/* Class = "UILabel"; text = "Promotional Code"; ObjectID = "E61-ln-Epv"; */
+"E61-ln-Epv.text" = "Promotional Code";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "FT9-qE-Yil"; */
+"FT9-qE-Yil.text" = "Address";
+
+/* Class = "UILabel"; text = "Medium Truck"; ObjectID = "Hq4-lb-FIZ"; */
+"Hq4-lb-FIZ.text" = "Medium Truck";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "MQC-Pf-zkT"; */
+"MQC-Pf-zkT.normalTitle" = "Change";
+
+/* Class = "UILabel"; text = "PAY"; ObjectID = "Qvk-mB-y7k"; */
+"Qvk-mB-y7k.text" = "PAY";
+
+/* Class = "UILabel"; text = "Payment Type"; ObjectID = "UDG-Pv-Qfb"; */
+"UDG-Pv-Qfb.text" = "Payment Type";
+
+/* Class = "UILabel"; text = "Receiving Options"; ObjectID = "W0R-yx-1Sf"; */
+"W0R-yx-1Sf.text" = "Receiving Options";
+
+/* Class = "UILabel"; text = "Bill Details"; ObjectID = "ZVp-MN-NmX"; */
+"ZVp-MN-NmX.text" = "Bill Details";
+
+/* Class = "UILabel"; text = "Item Total "; ObjectID = "bBq-TP-vLb"; */
+"bBq-TP-vLb.text" = "Item Total ";
+
+/* Class = "UILabel"; text = "Request a delegate"; ObjectID = "gMp-xP-BXD"; */
+"gMp-xP-BXD.text" = "Request a delegate";
+
+/* Class = "UILabel"; text = "Discount"; ObjectID = "kVA-k7-lv9"; */
+"kVA-k7-lv9.text" = "Discount";
+
+/* Class = "UILabel"; text = "Delivery Charge"; ObjectID = "p2l-Ff-iGG"; */
+"p2l-Ff-iGG.text" = "Delivery Charge";
+
+/* Class = "UILabel"; text = "Al Quoz - Al Quoz 2 - Dubai - United Arab Emirates"; ObjectID = "rJX-0M-tFO"; */
+"rJX-0M-tFO.text" = "Al Quoz - Al Quoz 2 - Dubai - United Arab Emirates";
+
+/* Class = "UILabel"; text = "Medium Truck"; ObjectID = "rKz-Dh-dHl"; */
+"rKz-Dh-dHl.text" = "Medium Truck";
+
+/* Class = "UILabel"; text = "Receiving Options"; ObjectID = "rbc-Eg-Von"; */
+"rbc-Eg-Von.text" = "Receiving Options";
+
+/* Class = "UIButton"; normalTitle = "Place your order"; ObjectID = "vAM-W5-JlX"; */
+"vAM-W5-JlX.normalTitle" = "Place your order";
+
+/* Class = "UILabel"; text = "Tax Charge"; ObjectID = "vw3-CR-h7y"; */
+"vw3-CR-h7y.text" = "Tax Charge";
+
+/* Class = "UILabel"; text = "Choose a delivery option"; ObjectID = "zko-AB-Lfn"; */
+"zko-AB-Lfn.text" = "Choose a delivery option";
+
+/* Class = "UILabel"; text = "  Payment Methods"; ObjectID = "zmh-lk-2Dz"; */
+"zmh-lk-2Dz.text" = "  Payment Methods";
