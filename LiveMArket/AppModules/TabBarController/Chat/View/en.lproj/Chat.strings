@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "6:30 PM"; ObjectID = "3i7-8d-N8w"; */
+"3i7-8d-N8w.text" = "6:30 PM";
+
+/* Class = "UILabel"; text = "Active now"; ObjectID = "93d-TU-QO4"; */
+"93d-TU-QO4.text" = "Active now";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "9UO-Pr-eJZ"; */
+"9UO-Pr-eJZ.text" = "00:00";
+
+/* Class = "UITextField"; placeholder = "Search By Name"; ObjectID = "BI4-VA-1w2"; */
+"BI4-VA-1w2.placeholder" = "Search By Name";
+
+/* Class = "UILabel"; text = "No Message Found!"; ObjectID = "BMw-sN-mG6"; */
+"BMw-sN-mG6.text" = "No Message Found!";
+
+/* Class = "UILabel"; text = "0:01"; ObjectID = "EUh-iN-883"; */
+"EUh-iN-883.text" = "0:01";
+
+/* Class = "UILabel"; text = "Chat is not allowed as the order has been Delivered."; ObjectID = "Fmf-AG-dTw"; */
+"Fmf-AG-dTw.text" = "Chat is not allowed as the order has been Delivered.";
+
+/* Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."; ObjectID = "I1K-9Z-IXa"; */
+"I1K-9Z-IXa.text" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "MAV-KR-5Cm"; */
+"MAV-KR-5Cm.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "Sending image..."; ObjectID = "YRF-wV-Gdh"; */
+"YRF-wV-Gdh.text" = "Sending image...";
+
+/* Class = "UILabel"; text = "Active now"; ObjectID = "byA-eX-F0Y"; */
+"byA-eX-F0Y.text" = "Active now";
+
+/* Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."; ObjectID = "dma-Jg-bvz"; */
+"dma-Jg-bvz.text" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.";
+
+/* Class = "UILabel"; text = "Hi,deufsbfclsdjcfbvsldjcfsflfjff Hi,deufsbfclsdjcfbvsldjcfsflfjff Hi,deufsbfclsdjcfbvsldjcfsflfjff Hi,deufsbfclsdjcfbvsldjcfsflfjff "; ObjectID = "fcW-Ke-RQg"; */
+"fcW-Ke-RQg.text" = "Hi,deufsbfclsdjcfbvsldjcfsflfjff Hi,deufsbfclsdjcfbvsldjcfsflfjff Hi,deufsbfclsdjcfbvsldjcfsflfjff Hi,deufsbfclsdjcfbvsldjcfsflfjff ";
+
+/* Class = "UILabel"; text = "6:30 PM"; ObjectID = "tqx-d4-Zno"; */
+"tqx-d4-Zno.text" = "6:30 PM";
