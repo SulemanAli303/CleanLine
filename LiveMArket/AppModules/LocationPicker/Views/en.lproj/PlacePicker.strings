@@ -1,0 +1,15 @@
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "M7V-At-5om"; */
+"M7V-At-5om.placeholder" = "City";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "PUR-vt-K2H"; */
+"PUR-vt-K2H.placeholder" = "Country";
+
+/* Class = "UILabel"; text = "15.456"; ObjectID = "ne0-3n-UzY"; */
+"ne0-3n-UzY.text" = "15.456";
+
+/* Class = "UILabel"; text = "loaded and filtered on the client. Consider adding \".indexOn\": \"g\" at /Geolocs to your security rules for better performance"; ObjectID = "vOr-YO-Tgf"; */
+"vOr-YO-Tgf.text" = "loaded and filtered on the client. Consider adding \".indexOn\": \"g\" at /Geolocs to your security rules for better performance";
+
+/* Class = "UILabel"; text = "loaded and filtered on the client. Consider adding \".indexOn\": \"g\" at /Geolocs to your security rules for better performance"; ObjectID = "xk2-RL-cUv"; */
+"xk2-RL-cUv.text" = "loaded and filtered on the client. Consider adding \".indexOn\": \"g\" at /Geolocs to your security rules for better performance";
