@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "0"; ObjectID = "3bk-MT-g6c"; */
+"3bk-MT-g6c.text" = "0";
+
+/* Class = "UILabel"; text = "Margot Robbie"; ObjectID = "8aM-V4-7zh"; */
+"8aM-V4-7zh.text" = "Margot Robbie";
+
+/* Class = "UILabel"; text = "Products"; ObjectID = "Lhf-G7-PT6"; */
+"Lhf-G7-PT6.text" = "Products";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "YlM-rl-Xya"; */
+"YlM-rl-Xya.text" = "0";
+
+/* Class = "UILabel"; text = "Posts"; ObjectID = "Z2q-7o-quZ"; */
+"Z2q-7o-quZ.text" = "Posts";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "aUx-Ub-goj"; */
+"aUx-Ub-goj.text" = "0";
+
+/* Class = "UILabel"; text = "Video"; ObjectID = "csY-cS-VVQ"; */
+"csY-cS-VVQ.text" = "Video";
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "dJj-I3-3dh"; */
+"dJj-I3-3dh.text" = "Followers";
+
+/* Class = "UIButton"; normalTitle = "Un Follow"; ObjectID = "fgO-2c-9dw"; */
+"fgO-2c-9dw.normalTitle" = "Un Follow";
+
+/* Class = "UILabel"; text = "Just now"; ObjectID = "m5I-P3-iJX"; */
+"m5I-P3-iJX.text" = "Just now";
+
+/* Class = "UILabel"; text = "Following"; ObjectID = "oSW-Z0-9fg"; */
+"oSW-Z0-9fg.text" = "Following";
+
+/* Class = "UILabel"; text = " 0/5"; ObjectID = "pUV-fw-H8L"; */
+"pUV-fw-H8L.text" = " 0/5";
+
+/* Class = "UILabel"; text = "Margot Robbie"; ObjectID = "t8j-Nn-fC7"; */
+"t8j-Nn-fC7.text" = "Margot Robbie";
+
+/* Class = "UIButton"; normalTitle = "Remove"; ObjectID = "v0q-Yu-npS"; */
+"v0q-Yu-npS.normalTitle" = "Remove";
+
+/* Class = "UILabel"; text = "Just now"; ObjectID = "xN9-s9-UWx"; */
+"xN9-s9-UWx.text" = "Just now";
+
+/* Class = "UILabel"; text = "Video"; ObjectID = "yAN-C7-Lzo"; */
+"yAN-C7-Lzo.text" = "Video";
