@@ -1,0 +1,18 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "cAJ-7l-oOP.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Men\"; ObjectID = \"cAJ-7l-oOP\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Men"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
