@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Poppins-SemiBold.ttf">
+            <string>Poppins-SemiBold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="SellerCategoryNameCollectionViewCell" id="gTV-IL-0wX" userLabel="SellerCategoryNameCollectionViewCell" customClass="SellerCategoryNameCollectionViewCell" customModule="LiveMArket" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="166" height="99"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="166" height="99"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Ngi-fr-9Q5">
+                        <rect key="frame" x="0.0" y="0.0" width="166" height="99"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Men" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cAJ-7l-oOP">
+                                <rect key="frame" x="15" y="10" width="136" height="79"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="79" id="NLS-Bt-3ku"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Poppins-SemiBold" family="Poppins" pointSize="14"/>
+                                <color key="textColor" red="0.20000000000000001" green="0.20000000000000001" blue="0.20000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="bottom" secondItem="cAJ-7l-oOP" secondAttribute="bottom" constant="10" id="GJa-pd-yWX"/>
+                            <constraint firstItem="cAJ-7l-oOP" firstAttribute="leading" secondItem="Ngi-fr-9Q5" secondAttribute="leading" constant="15" id="aEa-1c-6vP"/>
+                            <constraint firstItem="cAJ-7l-oOP" firstAttribute="top" secondItem="Ngi-fr-9Q5" secondAttribute="top" constant="10" id="cJY-TJ-msr"/>
+                            <constraint firstAttribute="trailing" secondItem="cAJ-7l-oOP" secondAttribute="trailing" constant="15" id="rka-ca-JRI"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="Ngi-fr-9Q5" secondAttribute="bottom" id="6ZV-Fi-uOq"/>
+                <constraint firstAttribute="trailing" secondItem="Ngi-fr-9Q5" secondAttribute="trailing" id="74O-bY-b8a"/>
+                <constraint firstAttribute="top" secondItem="Ngi-fr-9Q5" secondAttribute="top" id="7ft-Bf-52v"/>
+                <constraint firstItem="Ngi-fr-9Q5" firstAttribute="leading" secondItem="ZTg-uK-7eu" secondAttribute="leading" id="Jet-uW-xTD"/>
+                <constraint firstItem="Ngi-fr-9Q5" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="NaM-Fa-1BQ"/>
+                <constraint firstItem="ZTg-uK-7eu" firstAttribute="trailing" secondItem="Ngi-fr-9Q5" secondAttribute="trailing" id="W4e-n8-vDC"/>
+                <constraint firstItem="Ngi-fr-9Q5" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="mz1-Dv-T8p"/>
+            </constraints>
+            <size key="customSize" width="166" height="102"/>
+            <connections>
+                <outlet property="namelbl" destination="cAJ-7l-oOP" id="xhk-eT-pIo"/>
+            </connections>
+            <point key="canvasLocation" x="221.73913043478262" y="76.004464285714278"/>
+        </collectionViewCell>
+    </objects>
+</document>
