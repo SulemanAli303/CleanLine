@@ -1,0 +1,102 @@
+
+/* Class = "UILabel"; text = "0"; ObjectID = "0SV-WH-pgM"; */
+"0SV-WH-pgM.text" = "0";
+
+/* Class = "UILabel"; text = "VERIFICATION CODE FOR REPRESENTATIVE"; ObjectID = "0w3-dq-hos"; */
+"0w3-dq-hos.text" = "VERIFICATION CODE FOR REPRESENTATIVE";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "1Ud-oQ-n68"; */
+"1Ud-oQ-n68.normalTitle" = "Reject";
+
+/* Class = "UIButton"; normalTitle = "Call"; ObjectID = "1eV-Do-NBR"; */
+"1eV-Do-NBR.normalTitle" = "Call";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "1nx-fH-zcM"; */
+"1nx-fH-zcM.normalTitle" = "Accept";
+
+/* Class = "UILabel"; text = "Delivered"; ObjectID = "4TD-fy-P14"; */
+"4TD-fy-P14.text" = "Delivered";
+
+/* Class = "UIButton"; normalTitle = "Delivered"; ObjectID = "5cw-Tw-VPB"; */
+"5cw-Tw-VPB.normalTitle" = "Delivered";
+
+/* Class = "UILabel"; text = "Route Location"; ObjectID = "75T-Bo-whs"; */
+"75T-Bo-whs.text" = "Route Location";
+
+/* Class = "UILabel"; text = "Request a delegate"; ObjectID = "D5w-dl-mGZ"; */
+"D5w-dl-mGZ.text" = "Request a delegate";
+
+/* Class = "UILabel"; text = "Delivery Address"; ObjectID = "DOJ-ja-MhJ"; */
+"DOJ-ja-MhJ.text" = "Delivery Address";
+
+/* Class = "UILabel"; text = "Cancel This Order ?"; ObjectID = "GcP-tq-tfo"; */
+"GcP-tq-tfo.text" = "Cancel This Order ?";
+
+/* Class = "UILabel"; text = "DELIVERED DETAILS"; ObjectID = "Gs4-Yj-iXI"; */
+"Gs4-Yj-iXI.text" = "DELIVERED DETAILS";
+
+/* Class = "UILabel"; text = "Medium Truck"; ObjectID = "HII-8y-hbw"; */
+"HII-8y-hbw.text" = "Medium Truck";
+
+/* Class = "UIButton"; normalTitle = "Collection"; ObjectID = "IMd-a4-nWi"; */
+"IMd-a4-nWi.normalTitle" = "Collection";
+
+/* Class = "UILabel"; text = "Bill Details"; ObjectID = "J93-zc-jn7"; */
+"J93-zc-jn7.text" = "Bill Details";
+
+/* Class = "UILabel"; text = "Discount Charge"; ObjectID = "JVq-nY-cCi"; */
+"JVq-nY-cCi.text" = "Discount Charge";
+
+/* Class = "UILabel"; text = "Payment Type"; ObjectID = "O6g-3k-5lh"; */
+"O6g-3k-5lh.text" = "Payment Type";
+
+/* Class = "UILabel"; text = "Delivery Charge"; ObjectID = "QHJ-kg-lWb"; */
+"QHJ-kg-lWb.text" = "Delivery Charge";
+
+/* Class = "UILabel"; text = "Tax Charge"; ObjectID = "R2I-EP-wdw"; */
+"R2I-EP-wdw.text" = "Tax Charge";
+
+/* Class = "UIButton"; normalTitle = "Pay Now"; ObjectID = "Sw6-RH-mbH"; */
+"Sw6-RH-mbH.normalTitle" = "Pay Now";
+
+/* Class = "UILabel"; text = "Payment Methods"; ObjectID = "WdZ-4w-tDB"; */
+"WdZ-4w-tDB.text" = "Payment Methods";
+
+/* Class = "UILabel"; text = "Track Order"; ObjectID = "Yek-mq-VEu"; */
+"Yek-mq-VEu.text" = "Track Order";
+
+/* Class = "UILabel"; text = "Grand Total"; ObjectID = "cr5-8c-kjO"; */
+"cr5-8c-kjO.text" = "Grand Total";
+
+/* Class = "UILabel"; text = "Delivery Option"; ObjectID = "cwn-hQ-fPM"; */
+"cwn-hQ-fPM.text" = "Delivery Option";
+
+/* Class = "UILabel"; text = "-Give star rating"; ObjectID = "eBX-GE-jIw"; */
+"eBX-GE-jIw.text" = "-Give star rating";
+
+/* Class = "UILabel"; text = "Accept This Order ?"; ObjectID = "eHt-1w-5Gp"; */
+"eHt-1w-5Gp.text" = "Accept This Order ?";
+
+/* Class = "UILabel"; text = "Product List"; ObjectID = "hyv-nf-tLB"; */
+"hyv-nf-tLB.text" = "Product List";
+
+/* Class = "UILabel"; text = "Ready to Pickup?"; ObjectID = "iBu-g7-3uX"; */
+"iBu-g7-3uX.text" = "Ready to Pickup?";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "jD5-rQ-gPb"; */
+"jD5-rQ-gPb.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "ENTER THE VERIFICATION NUMBER FROM CUSTOMER"; ObjectID = "lzA-o8-SuG"; */
+"lzA-o8-SuG.text" = "ENTER THE VERIFICATION NUMBER FROM CUSTOMER";
+
+/* Class = "UILabel"; text = "ASSIGNED REPRESENTATIVE"; ObjectID = "mG5-ZR-KHA"; */
+"mG5-ZR-KHA.text" = "ASSIGNED REPRESENTATIVE";
+
+/* Class = "UIButton"; normalTitle = "   Chat with Delegate"; ObjectID = "p3f-7g-Bcd"; */
+"p3f-7g-Bcd.normalTitle" = "   Chat with Delegate";
+
+/* Class = "UILabel"; text = "Item Total x3"; ObjectID = "v8K-R5-h1i"; */
+"v8K-R5-h1i.text" = "Item Total x3";
+
+/* Class = "UILabel"; text = "CARD"; ObjectID = "z4l-pq-7Cl"; */
+"z4l-pq-7Cl.text" = "CARD";
