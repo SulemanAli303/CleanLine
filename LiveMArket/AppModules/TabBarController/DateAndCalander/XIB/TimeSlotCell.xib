@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Poppins-SemiBold.ttf">
+            <string>Poppins-SemiBold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="TimeSlotCell" rowHeight="302" id="KGk-i7-Jjw" customClass="TimeSlotCell" customModule="Fast_Time" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="302"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="302"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="xu2-L7-cpL">
+                        <rect key="frame" x="8" y="0.0" width="359" height="285"/>
+                        <subviews>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="nq8-4F-xYl">
+                                <rect key="frame" x="8" y="12" width="343" height="221"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="v7h-ce-kfz">
+                                    <size key="itemSize" width="128" height="128"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <connections>
+                                    <outlet property="dataSource" destination="KGk-i7-Jjw" id="gfO-TG-aR7"/>
+                                    <outlet property="delegate" destination="KGk-i7-Jjw" id="7J7-i4-xDw"/>
+                                </connections>
+                            </collectionView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="TaB-gs-uxK">
+                                <rect key="frame" x="20" y="240" width="319" height="35"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MwZ-66-tbr">
+                                        <rect key="frame" x="0.0" y="0.0" width="319" height="35"/>
+                                        <color key="backgroundColor" red="0.17254901959999999" green="0.30588235289999999" blue="0.60392156860000001" alpha="1" colorSpace="calibratedRGB"/>
+                                        <fontDescription key="fontDescription" name="Poppins-SemiBold" family="Poppins" pointSize="14"/>
+                                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                        <state key="normal" title="Continue">
+                                            <color key="titleColor" name="ColorFFFFFF"/>
+                                        </state>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="ibcornerRadius">
+                                                <real key="value" value="15"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                        <connections>
+                                            <action selector="continueBtn:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="02V-Kt-gJx"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="bottom" secondItem="MwZ-66-tbr" secondAttribute="bottom" id="6PZ-wJ-vD4"/>
+                                    <constraint firstItem="MwZ-66-tbr" firstAttribute="leading" secondItem="TaB-gs-uxK" secondAttribute="leading" id="7Ao-TU-yiu"/>
+                                    <constraint firstAttribute="height" constant="35" id="bR3-NX-V7d"/>
+                                    <constraint firstAttribute="trailing" secondItem="MwZ-66-tbr" secondAttribute="trailing" id="pD8-Gd-pCN"/>
+                                    <constraint firstItem="MwZ-66-tbr" firstAttribute="top" secondItem="TaB-gs-uxK" secondAttribute="top" id="qNe-mA-MJN"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="25"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="ibcornerRadius">
+                                        <real key="value" value="20"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="TaB-gs-uxK" secondAttribute="trailing" constant="20" id="1eK-nf-aO7"/>
+                            <constraint firstAttribute="bottom" secondItem="nq8-4F-xYl" secondAttribute="bottom" constant="52" id="9XW-Gs-t44"/>
+                            <constraint firstItem="nq8-4F-xYl" firstAttribute="top" secondItem="xu2-L7-cpL" secondAttribute="top" constant="12" id="DZo-3B-7dP"/>
+                            <constraint firstAttribute="bottom" secondItem="TaB-gs-uxK" secondAttribute="bottom" constant="10" id="ezn-93-8ZO"/>
+                            <constraint firstAttribute="height" constant="285" id="gnB-0s-zor"/>
+                            <constraint firstAttribute="trailing" secondItem="nq8-4F-xYl" secondAttribute="trailing" constant="8" id="oyo-RP-fAq"/>
+                            <constraint firstItem="nq8-4F-xYl" firstAttribute="leading" secondItem="xu2-L7-cpL" secondAttribute="leading" constant="8" id="pbP-Zl-uQB"/>
+                            <constraint firstItem="TaB-gs-uxK" firstAttribute="leading" secondItem="xu2-L7-cpL" secondAttribute="leading" constant="20" id="zdh-Vp-FVk"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstItem="xu2-L7-cpL" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="8" id="5PE-39-tqO"/>
+                    <constraint firstAttribute="bottom" secondItem="xu2-L7-cpL" secondAttribute="bottom" constant="17" id="ISB-fs-5jc"/>
+                    <constraint firstItem="xu2-L7-cpL" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="bLv-l4-7Mi"/>
+                    <constraint firstAttribute="trailing" secondItem="xu2-L7-cpL" secondAttribute="trailing" constant="8" id="o84-JM-89z"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="timeSlotCollectionView" destination="nq8-4F-xYl" id="qPB-LT-Inh"/>
+            </connections>
+            <point key="canvasLocation" x="138.40579710144928" y="101.78571428571428"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <namedColor name="ColorFFFFFF">
+            <color red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>
