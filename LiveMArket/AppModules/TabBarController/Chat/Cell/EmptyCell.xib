@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Poppins-Regular.ttf">
+            <string>Poppins-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="EmptyCell" rowHeight="315" id="KGk-i7-Jjw" customClass="EmptyCell" customModule="CounselHub" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="315"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="315"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="xwr-4X-gv6">
+                        <rect key="frame" x="16" y="18" width="288" height="279"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="no post available against your profile" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WRA-Px-61g">
+                                <rect key="frame" x="8" y="118.5" width="272" height="42"/>
+                                <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="15"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="WRA-Px-61g" firstAttribute="centerY" secondItem="xwr-4X-gv6" secondAttribute="centerY" id="1kG-5g-KIt"/>
+                            <constraint firstAttribute="height" constant="279" id="5bp-Mj-LZ4"/>
+                            <constraint firstItem="WRA-Px-61g" firstAttribute="centerX" secondItem="xwr-4X-gv6" secondAttribute="centerX" id="9dd-sl-Pnl"/>
+                            <constraint firstItem="WRA-Px-61g" firstAttribute="leading" secondItem="xwr-4X-gv6" secondAttribute="leading" constant="8" id="kaG-mT-j7c"/>
+                            <constraint firstAttribute="trailing" secondItem="WRA-Px-61g" secondAttribute="trailing" constant="8" id="olo-y8-JGw"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="ibcornerRadius">
+                                <real key="value" value="10"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="xwr-4X-gv6" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="16" id="26V-J3-WXZ"/>
+                    <constraint firstItem="xwr-4X-gv6" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="18" id="GlX-g8-bZD"/>
+                    <constraint firstAttribute="bottom" secondItem="xwr-4X-gv6" secondAttribute="bottom" constant="18" id="YrW-GM-Sgh"/>
+                    <constraint firstAttribute="trailing" secondItem="xwr-4X-gv6" secondAttribute="trailing" constant="16" id="rC0-if-kcL"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="lblmessage" destination="WRA-Px-61g" id="LKF-3g-GqE"/>
+            </connections>
+            <point key="canvasLocation" x="-17.39130434782609" y="85.379464285714278"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
