@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "View Order Details"; ObjectID = "Eru-JP-mhe"; */
+"Eru-JP-mhe.normalTitle" = "View Order Details";
+
+/* Class = "UILabel"; text = "Invoice no"; ObjectID = "Fq1-AJ-p9f"; */
+"Fq1-AJ-p9f.text" = "Invoice no";
+
+/* Class = "UILabel"; text = "#LM-501248596038"; ObjectID = "HLw-ff-IoN"; */
+"HLw-ff-IoN.text" = "#LM-501248596038";
+
+/* Class = "UILabel"; text = "Your order has been placed successfully!\nplease wait for confirmation"; ObjectID = "R5k-8M-vSP"; */
+"R5k-8M-vSP.text" = "Your order has been placed successfully!\nplease wait for confirmation";
+
+/* Class = "UILabel"; text = "Thank You"; ObjectID = "Yhz-70-lTi"; */
+"Yhz-70-lTi.text" = "Thank You";
+
+/* Class = "UIButton"; normalTitle = "Return To Home"; ObjectID = "dN6-CY-RzL"; */
+"dN6-CY-RzL.normalTitle" = "Return To Home";
