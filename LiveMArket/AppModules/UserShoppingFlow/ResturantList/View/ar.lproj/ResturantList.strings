@@ -1,0 +1,81 @@
+
+/* Class = "UIButton"; normalTitle = "Modify Filter  "; ObjectID = "17A-QO-JLg"; */
+"17A-QO-JLg.normalTitle" = "Modify Filter  ";
+
+/* Class = "UIButton"; normalTitle = "Filter  "; ObjectID = "1gg-UN-Fjw"; */
+"1gg-UN-Fjw.normalTitle" = "Filter  ";
+
+/* Class = "UITextField"; placeholder = "Rating"; ObjectID = "3G0-vN-VNa"; */
+"3G0-vN-VNa.placeholder" = "Rating";
+
+/* Class = "UILabel"; text = "Filter"; ObjectID = "7hd-B3-fdg"; */
+"7hd-B3-fdg.text" = "Filter";
+
+/* Class = "UITextField"; placeholder = "Search what you need..."; ObjectID = "97z-PS-deK"; */
+"97z-PS-deK.placeholder" = "Search what you need...";
+
+/* Class = "UIButton"; normalTitle = "Clear all"; ObjectID = "AoX-tw-V7r"; */
+"AoX-tw-V7r.normalTitle" = "Clear all";
+
+/* Class = "UITextField"; placeholder = "Check in"; ObjectID = "BOP-Yo-KmT"; */
+"BOP-Yo-KmT.placeholder" = "Check in";
+
+/* Class = "UITextField"; placeholder = "Sort By"; ObjectID = "CV7-pC-ogR"; */
+"CV7-pC-ogR.placeholder" = "Sort By";
+
+/* Class = "UIButton"; normalTitle = "Clear All"; ObjectID = "FNX-PF-YZf"; */
+"FNX-PF-YZf.normalTitle" = "Clear All";
+
+/* Class = "UILabel"; text = "SAR"; ObjectID = "H8E-o2-5F6"; */
+"H8E-o2-5F6.text" = "SAR";
+
+/* Class = "UILabel"; text = "0 Results showing"; ObjectID = "ICo-PK-HcO"; */
+"ICo-PK-HcO.text" = "0 Results showing";
+
+/* Class = "UITextField"; placeholder = "Check out"; ObjectID = "Jny-RL-GZp"; */
+"Jny-RL-GZp.placeholder" = "Check out";
+
+/* Class = "UILabel"; text = "Reservation"; ObjectID = "Lh2-0R-9es"; */
+"Lh2-0R-9es.text" = "Reservation";
+
+/* Class = "UITextField"; text = "Delegate Service"; ObjectID = "MNw-9K-18g"; */
+"MNw-9K-18g.text" = "Delegate Service";
+
+/* Class = "UITextField"; placeholder = "Amenities"; ObjectID = "NaR-oX-QbO"; */
+"NaR-oX-QbO.placeholder" = "Amenities";
+
+/* Class = "UILabel"; text = "SAR"; ObjectID = "QC6-KT-X1y"; */
+"QC6-KT-X1y.text" = "SAR";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "RZh-4a-1ZT"; */
+"RZh-4a-1ZT.placeholder" = "Location";
+
+/* Class = "UILabel"; text = "PRICE RANGE"; ObjectID = "THm-py-xyM"; */
+"THm-py-xyM.text" = "PRICE RANGE";
+
+/* Class = "UITextField"; placeholder = "Search what you need..."; ObjectID = "TgB-g8-KHi"; */
+"TgB-g8-KHi.placeholder" = "Search what you need...";
+
+/* Class = "UITextField"; placeholder = "Search here.."; ObjectID = "WsL-MH-JoW"; */
+"WsL-MH-JoW.placeholder" = "Search here..";
+
+/* Class = "UITextField"; placeholder = "Search here.."; ObjectID = "XfD-nD-hIE"; */
+"XfD-nD-hIE.placeholder" = "Search here..";
+
+/* Class = "UITextField"; placeholder = "Search here.."; ObjectID = "XjW-yU-PUW"; */
+"XjW-yU-PUW.placeholder" = "Search here..";
+
+/* Class = "UIButton"; normalTitle = "Apply Fliter"; ObjectID = "cad-l7-Xx7"; */
+"cad-l7-Xx7.normalTitle" = "Apply Fliter";
+
+/* Class = "UITextField"; placeholder = "Recommended"; ObjectID = "g6C-b8-Rhn"; */
+"g6C-b8-Rhn.placeholder" = "Recommended";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "lV3-RL-hib"; */
+"lV3-RL-hib.placeholder" = "City";
+
+/* Class = "UITextField"; placeholder = "Search here.."; ObjectID = "lfi-8U-uqd"; */
+"lfi-8U-uqd.placeholder" = "Search here..";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "tAX-oS-z8f"; */
+"tAX-oS-z8f.placeholder" = "Price";
