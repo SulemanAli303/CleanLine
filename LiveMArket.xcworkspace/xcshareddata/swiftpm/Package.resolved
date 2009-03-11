@@ -1,0 +1,69 @@
+{
+  "originHash" : "b618bdd628abfe19a929b748b1e023133a63363772a1e63d10e611ac7d7c4533",
+  "pins" : [
+    {
+      "identity" : "alprogressview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/alxrguz/ALProgressView",
+      "state" : {
+        "revision" : "54f42cb339924de1b37fe8ecdbe72a3336cbc73d",
+        "version" : "2.0.0"
+      }
+    },
+    {
+      "identity" : "contextmenuswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/umerjabbar/ContextMenuSwift.git",
+      "state" : {
+        "revision" : "5bf139a8437e431f07f87b8092830863a9f41711",
+        "version" : "2.0.1"
+      }
+    },
+    {
+      "identity" : "haishinkit.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shogo4405/HaishinKit.swift",
+      "state" : {
+        "revision" : "008a11e566c2e9a74be20c9958d030448b85a1fb",
+        "version" : "1.7.6"
+      }
+    },
+    {
+      "identity" : "logboard",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shogo4405/Logboard.git",
+      "state" : {
+        "revision" : "c6328f9751627287bcddcf0106eb54e5ca6b9ef8",
+        "version" : "2.4.2"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit.git",
+      "state" : {
+        "revision" : "2842e6e84e82eb9a8dac0100ca90d9444b0307f4",
+        "version" : "5.7.1"
+      }
+    },
+    {
+      "identity" : "starscream",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/daltoniam/Starscream.git",
+      "state" : {
+        "revision" : "c6bfd1af48efcc9a9ad203665db12375ba6b145a",
+        "version" : "4.0.8"
+      }
+    },
+    {
+      "identity" : "webrtc-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ant-media/WebRTC-iOS-SDK",
+      "state" : {
+        "branch" : "master",
+        "revision" : "00656183822ab8978f89e38bd018fd467f67f57c"
+      }
+    }
+  ],
+  "version" : 3
+}
